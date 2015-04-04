@@ -1,0 +1,26 @@
+<h1>Per regio: {{ ctrl.electionData.Name }}</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Stembureau</th>
+            <th data-ng-repeat="partyData in ctrl.electionData.Parties">{{ partyData.Name }}</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr data-ng-repeat="regionData in ctrl.regionalData.Regions">
+            <th>{{ regionData.Name }}</th>
+            <td data-ng-repeat="regionPartyData in regionData.Parties">
+                {{ regionPartyData.Percentage | number:1 }}%<br />
+                {{ regionPartyData.Votes }}
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="footer">
+    <p class="text-muted">
+        Door <a href="https://twitter.com/bramfokke" target="_blank">Bram Fokke</a>
+        &amp; <a href="https://twitter.com/jschreuder" target="_blank">Jelmer Schreuder</a>.
+    </p>
+</div>

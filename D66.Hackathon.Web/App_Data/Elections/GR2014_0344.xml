@@ -1,0 +1,3313 @@
+<?xml version="1.0"?>
+<Election xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Key="GR2014_0344" Name="Gemeenteraadsverkiezingen 2014 - Utrecht">
+  <Parties>
+    <Party Key="GL" Name="GL" />
+    <Party Key="PvdA" Name="PvdA" />
+    <Party Key="D66" Name="D66" />
+    <Party Key="VVD" Name="VVD" />
+    <Party Key="CDA" Name="CDA" />
+    <Party Key="SP" Name="SP" />
+    <Party Key="CU" Name="CU" />
+    <Party Key="BIP" Name="BIP" />
+    <Party Key="OU" Name="OU" />
+    <Party Key="OPAU" Name="OPAU" />
+    <Party Key="SenS" Name="SenS" />
+    <Party Key="SBU" Name="SBU" />
+    <Party Key="PVU" Name="PVU" />
+    <Party Key="ND" Name="ND" />
+    <Party Key="LP" Name="LP" />
+    <Party Key="OPU" Name="OPU" />
+    <Party Key="PvdD" Name="PvdD" />
+  </Parties>
+  <Regions>
+    <Region Key="001" Name="Korte Minrebroederstraat 2" X="136667" Y="455964">
+      <Result BlankVotes="11" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="570" />
+          <RegionPartyResult Party="PvdA" Votes="192" />
+          <RegionPartyResult Party="D66" Votes="1103" />
+          <RegionPartyResult Party="VVD" Votes="377" />
+          <RegionPartyResult Party="CDA" Votes="115" />
+          <RegionPartyResult Party="SP" Votes="180" />
+          <RegionPartyResult Party="CU" Votes="93" />
+          <RegionPartyResult Party="BIP" Votes="6" />
+          <RegionPartyResult Party="OU" Votes="5" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="156" />
+          <RegionPartyResult Party="SBU" Votes="56" />
+          <RegionPartyResult Party="PVU" Votes="16" />
+          <RegionPartyResult Party="ND" Votes="10" />
+          <RegionPartyResult Party="LP" Votes="9" />
+          <RegionPartyResult Party="OPU" Votes="8" />
+          <RegionPartyResult Party="PvdD" Votes="54" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="003" Name="St.-Jacobsstraat 171" X="136357" Y="456331">
+      <Result BlankVotes="5" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="178" />
+          <RegionPartyResult Party="PvdA" Votes="83" />
+          <RegionPartyResult Party="D66" Votes="296" />
+          <RegionPartyResult Party="VVD" Votes="114" />
+          <RegionPartyResult Party="CDA" Votes="62" />
+          <RegionPartyResult Party="SP" Votes="112" />
+          <RegionPartyResult Party="CU" Votes="47" />
+          <RegionPartyResult Party="BIP" Votes="5" />
+          <RegionPartyResult Party="OU" Votes="2" />
+          <RegionPartyResult Party="OPAU" Votes="8" />
+          <RegionPartyResult Party="SenS" Votes="44" />
+          <RegionPartyResult Party="SBU" Votes="35" />
+          <RegionPartyResult Party="PVU" Votes="8" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="10" />
+          <RegionPartyResult Party="PvdD" Votes="35" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="004" Name="Oudegracht 36" X="136472" Y="456378">
+      <Result BlankVotes="2" Invalid="5">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="265" />
+          <RegionPartyResult Party="PvdA" Votes="92" />
+          <RegionPartyResult Party="D66" Votes="337" />
+          <RegionPartyResult Party="VVD" Votes="127" />
+          <RegionPartyResult Party="CDA" Votes="36" />
+          <RegionPartyResult Party="SP" Votes="101" />
+          <RegionPartyResult Party="CU" Votes="36" />
+          <RegionPartyResult Party="BIP" Votes="4" />
+          <RegionPartyResult Party="OU" Votes="6" />
+          <RegionPartyResult Party="OPAU" Votes="4" />
+          <RegionPartyResult Party="SenS" Votes="54" />
+          <RegionPartyResult Party="SBU" Votes="25" />
+          <RegionPartyResult Party="PVU" Votes="5" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="1" />
+          <RegionPartyResult Party="PvdD" Votes="20" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="005" Name="Wittevrouwenkade 4" X="137073" Y="456414">
+      <Result BlankVotes="1" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="238" />
+          <RegionPartyResult Party="PvdA" Votes="91" />
+          <RegionPartyResult Party="D66" Votes="340" />
+          <RegionPartyResult Party="VVD" Votes="120" />
+          <RegionPartyResult Party="CDA" Votes="36" />
+          <RegionPartyResult Party="SP" Votes="78" />
+          <RegionPartyResult Party="CU" Votes="29" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="81" />
+          <RegionPartyResult Party="SBU" Votes="23" />
+          <RegionPartyResult Party="PVU" Votes="3" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="8" />
+          <RegionPartyResult Party="PvdD" Votes="32" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="006" Name="Pieterskerkhof 10" X="137047" Y="455912">
+      <Result BlankVotes="5" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="232" />
+          <RegionPartyResult Party="PvdA" Votes="99" />
+          <RegionPartyResult Party="D66" Votes="346" />
+          <RegionPartyResult Party="VVD" Votes="147" />
+          <RegionPartyResult Party="CDA" Votes="54" />
+          <RegionPartyResult Party="SP" Votes="85" />
+          <RegionPartyResult Party="CU" Votes="49" />
+          <RegionPartyResult Party="BIP" Votes="4" />
+          <RegionPartyResult Party="OU" Votes="2" />
+          <RegionPartyResult Party="OPAU" Votes="2" />
+          <RegionPartyResult Party="SenS" Votes="65" />
+          <RegionPartyResult Party="SBU" Votes="23" />
+          <RegionPartyResult Party="PVU" Votes="7" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="0" />
+          <RegionPartyResult Party="PvdD" Votes="27" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="007" Name="Nicolaasdwarsstraat 3" X="137029" Y="454964">
+      <Result BlankVotes="3" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="241" />
+          <RegionPartyResult Party="PvdA" Votes="111" />
+          <RegionPartyResult Party="D66" Votes="407" />
+          <RegionPartyResult Party="VVD" Votes="157" />
+          <RegionPartyResult Party="CDA" Votes="58" />
+          <RegionPartyResult Party="SP" Votes="107" />
+          <RegionPartyResult Party="CU" Votes="24" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="2" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="44" />
+          <RegionPartyResult Party="SBU" Votes="25" />
+          <RegionPartyResult Party="PVU" Votes="4" />
+          <RegionPartyResult Party="ND" Votes="6" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="7" />
+          <RegionPartyResult Party="PvdD" Votes="32" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="008" Name="Lange Smeestraat 40" X="136658" Y="455278">
+      <Result BlankVotes="2" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="315" />
+          <RegionPartyResult Party="PvdA" Votes="148" />
+          <RegionPartyResult Party="D66" Votes="424" />
+          <RegionPartyResult Party="VVD" Votes="148" />
+          <RegionPartyResult Party="CDA" Votes="42" />
+          <RegionPartyResult Party="SP" Votes="162" />
+          <RegionPartyResult Party="CU" Votes="35" />
+          <RegionPartyResult Party="BIP" Votes="6" />
+          <RegionPartyResult Party="OU" Votes="2" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="49" />
+          <RegionPartyResult Party="SBU" Votes="24" />
+          <RegionPartyResult Party="PVU" Votes="9" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="13" />
+          <RegionPartyResult Party="PvdD" Votes="45" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="009" Name="Laan van Puntenburg 2 A" X="136243" Y="455528">
+      <Result BlankVotes="2" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="111" />
+          <RegionPartyResult Party="PvdA" Votes="57" />
+          <RegionPartyResult Party="D66" Votes="222" />
+          <RegionPartyResult Party="VVD" Votes="101" />
+          <RegionPartyResult Party="CDA" Votes="33" />
+          <RegionPartyResult Party="SP" Votes="34" />
+          <RegionPartyResult Party="CU" Votes="8" />
+          <RegionPartyResult Party="BIP" Votes="4" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="2" />
+          <RegionPartyResult Party="SenS" Votes="21" />
+          <RegionPartyResult Party="SBU" Votes="14" />
+          <RegionPartyResult Party="PVU" Votes="2" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="2" />
+          <RegionPartyResult Party="PvdD" Votes="20" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="010" Name="Arthur van Schendelstraat 500" X="136646" Y="454748">
+      <Result BlankVotes="2" Invalid="5">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="143" />
+          <RegionPartyResult Party="PvdA" Votes="102" />
+          <RegionPartyResult Party="D66" Votes="312" />
+          <RegionPartyResult Party="VVD" Votes="132" />
+          <RegionPartyResult Party="CDA" Votes="35" />
+          <RegionPartyResult Party="SP" Votes="57" />
+          <RegionPartyResult Party="CU" Votes="26" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="5" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="22" />
+          <RegionPartyResult Party="SBU" Votes="16" />
+          <RegionPartyResult Party="PVU" Votes="6" />
+          <RegionPartyResult Party="ND" Votes="6" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="1" />
+          <RegionPartyResult Party="PvdD" Votes="26" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="011" Name="Muntkade 11" X="135187" Y="455353">
+      <Result BlankVotes="5" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="104" />
+          <RegionPartyResult Party="PvdA" Votes="51" />
+          <RegionPartyResult Party="D66" Votes="125" />
+          <RegionPartyResult Party="VVD" Votes="41" />
+          <RegionPartyResult Party="CDA" Votes="30" />
+          <RegionPartyResult Party="SP" Votes="39" />
+          <RegionPartyResult Party="CU" Votes="6" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="14" />
+          <RegionPartyResult Party="OPAU" Votes="0" />
+          <RegionPartyResult Party="SenS" Votes="15" />
+          <RegionPartyResult Party="SBU" Votes="20" />
+          <RegionPartyResult Party="PVU" Votes="5" />
+          <RegionPartyResult Party="ND" Votes="0" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="6" />
+          <RegionPartyResult Party="PvdD" Votes="14" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="012" Name="Van Riebeeckstraat 40" X="135231" Y="455783">
+      <Result BlankVotes="7" Invalid="5">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="197" />
+          <RegionPartyResult Party="PvdA" Votes="169" />
+          <RegionPartyResult Party="D66" Votes="260" />
+          <RegionPartyResult Party="VVD" Votes="46" />
+          <RegionPartyResult Party="CDA" Votes="26" />
+          <RegionPartyResult Party="SP" Votes="90" />
+          <RegionPartyResult Party="CU" Votes="30" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="34" />
+          <RegionPartyResult Party="OPAU" Votes="8" />
+          <RegionPartyResult Party="SenS" Votes="44" />
+          <RegionPartyResult Party="SBU" Votes="18" />
+          <RegionPartyResult Party="PVU" Votes="7" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="12" />
+          <RegionPartyResult Party="PvdD" Votes="18" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="014" Name="Abel Tasmanstraat 88 B" X="135049" Y="455796">
+      <Result BlankVotes="2" Invalid="5">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="298" />
+          <RegionPartyResult Party="PvdA" Votes="96" />
+          <RegionPartyResult Party="D66" Votes="297" />
+          <RegionPartyResult Party="VVD" Votes="68" />
+          <RegionPartyResult Party="CDA" Votes="42" />
+          <RegionPartyResult Party="SP" Votes="78" />
+          <RegionPartyResult Party="CU" Votes="29" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="16" />
+          <RegionPartyResult Party="OPAU" Votes="7" />
+          <RegionPartyResult Party="SenS" Votes="33" />
+          <RegionPartyResult Party="SBU" Votes="37" />
+          <RegionPartyResult Party="PVU" Votes="9" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="4" />
+          <RegionPartyResult Party="PvdD" Votes="18" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="015" Name="Maetsuykerstraat 2" X="135011" Y="455926">
+      <Result BlankVotes="5" Invalid="9">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="316" />
+          <RegionPartyResult Party="PvdA" Votes="166" />
+          <RegionPartyResult Party="D66" Votes="335" />
+          <RegionPartyResult Party="VVD" Votes="84" />
+          <RegionPartyResult Party="CDA" Votes="39" />
+          <RegionPartyResult Party="SP" Votes="106" />
+          <RegionPartyResult Party="CU" Votes="32" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="6" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="47" />
+          <RegionPartyResult Party="SBU" Votes="36" />
+          <RegionPartyResult Party="PVU" Votes="12" />
+          <RegionPartyResult Party="ND" Votes="5" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="7" />
+          <RegionPartyResult Party="PvdD" Votes="32" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="016" Name="Staringstraat 1" X="135223" Y="456280">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="398" />
+          <RegionPartyResult Party="PvdA" Votes="204" />
+          <RegionPartyResult Party="D66" Votes="489" />
+          <RegionPartyResult Party="VVD" Votes="158" />
+          <RegionPartyResult Party="CDA" Votes="78" />
+          <RegionPartyResult Party="SP" Votes="159" />
+          <RegionPartyResult Party="CU" Votes="38" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="30" />
+          <RegionPartyResult Party="OPAU" Votes="4" />
+          <RegionPartyResult Party="SenS" Votes="70" />
+          <RegionPartyResult Party="SBU" Votes="43" />
+          <RegionPartyResult Party="PVU" Votes="13" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="7" />
+          <RegionPartyResult Party="PvdD" Votes="22" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="018" Name="Louis Couperusstraat 85" X="134716" Y="456476">
+      <Result BlankVotes="3" Invalid="4">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="218" />
+          <RegionPartyResult Party="PvdA" Votes="74" />
+          <RegionPartyResult Party="D66" Votes="237" />
+          <RegionPartyResult Party="VVD" Votes="68" />
+          <RegionPartyResult Party="CDA" Votes="39" />
+          <RegionPartyResult Party="SP" Votes="62" />
+          <RegionPartyResult Party="CU" Votes="36" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="5" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="28" />
+          <RegionPartyResult Party="SBU" Votes="33" />
+          <RegionPartyResult Party="PVU" Votes="5" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="6" />
+          <RegionPartyResult Party="PvdD" Votes="17" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="019" Name="Laan van Nieuw-Guinea 20" X="134715" Y="455836">
+      <Result BlankVotes="9" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="308" />
+          <RegionPartyResult Party="PvdA" Votes="121" />
+          <RegionPartyResult Party="D66" Votes="309" />
+          <RegionPartyResult Party="VVD" Votes="87" />
+          <RegionPartyResult Party="CDA" Votes="45" />
+          <RegionPartyResult Party="SP" Votes="100" />
+          <RegionPartyResult Party="CU" Votes="35" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="11" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="49" />
+          <RegionPartyResult Party="SBU" Votes="41" />
+          <RegionPartyResult Party="PVU" Votes="20" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="15" />
+          <RegionPartyResult Party="PvdD" Votes="25" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="020" Name="Vleutenseweg 515" X="134436" Y="456348">
+      <Result BlankVotes="1" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="247" />
+          <RegionPartyResult Party="PvdA" Votes="140" />
+          <RegionPartyResult Party="D66" Votes="305" />
+          <RegionPartyResult Party="VVD" Votes="99" />
+          <RegionPartyResult Party="CDA" Votes="76" />
+          <RegionPartyResult Party="SP" Votes="143" />
+          <RegionPartyResult Party="CU" Votes="83" />
+          <RegionPartyResult Party="BIP" Votes="6" />
+          <RegionPartyResult Party="OU" Votes="11" />
+          <RegionPartyResult Party="OPAU" Votes="10" />
+          <RegionPartyResult Party="SenS" Votes="52" />
+          <RegionPartyResult Party="SBU" Votes="38" />
+          <RegionPartyResult Party="PVU" Votes="36" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="6" />
+          <RegionPartyResult Party="OPU" Votes="11" />
+          <RegionPartyResult Party="PvdD" Votes="35" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="022" Name="Victor Hugoplantsoen 33" X="134015" Y="455485">
+      <Result BlankVotes="2" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="155" />
+          <RegionPartyResult Party="PvdA" Votes="103" />
+          <RegionPartyResult Party="D66" Votes="187" />
+          <RegionPartyResult Party="VVD" Votes="90" />
+          <RegionPartyResult Party="CDA" Votes="77" />
+          <RegionPartyResult Party="SP" Votes="85" />
+          <RegionPartyResult Party="CU" Votes="47" />
+          <RegionPartyResult Party="BIP" Votes="5" />
+          <RegionPartyResult Party="OU" Votes="4" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="11" />
+          <RegionPartyResult Party="SBU" Votes="36" />
+          <RegionPartyResult Party="PVU" Votes="8" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="6" />
+          <RegionPartyResult Party="PvdD" Votes="26" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="023" Name="Franz Schubertstraat 20" X="134443" Y="455244">
+      <Result BlankVotes="5" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="362" />
+          <RegionPartyResult Party="PvdA" Votes="116" />
+          <RegionPartyResult Party="D66" Votes="450" />
+          <RegionPartyResult Party="VVD" Votes="200" />
+          <RegionPartyResult Party="CDA" Votes="105" />
+          <RegionPartyResult Party="SP" Votes="100" />
+          <RegionPartyResult Party="CU" Votes="50" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="3" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="10" />
+          <RegionPartyResult Party="SBU" Votes="66" />
+          <RegionPartyResult Party="PVU" Votes="9" />
+          <RegionPartyResult Party="ND" Votes="5" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="10" />
+          <RegionPartyResult Party="PvdD" Votes="22" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="024" Name="Joseph Haydnlaan 2" X="134195" Y="455089">
+      <Result BlankVotes="0" Invalid="5">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="80" />
+          <RegionPartyResult Party="PvdA" Votes="52" />
+          <RegionPartyResult Party="D66" Votes="157" />
+          <RegionPartyResult Party="VVD" Votes="71" />
+          <RegionPartyResult Party="CDA" Votes="65" />
+          <RegionPartyResult Party="SP" Votes="64" />
+          <RegionPartyResult Party="CU" Votes="22" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="2" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="8" />
+          <RegionPartyResult Party="SBU" Votes="39" />
+          <RegionPartyResult Party="PVU" Votes="6" />
+          <RegionPartyResult Party="ND" Votes="0" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="9" />
+          <RegionPartyResult Party="PvdD" Votes="13" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="025" Name="Leidseweg 132" X="134584" Y="454961">
+      <Result BlankVotes="0" Invalid="4">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="119" />
+          <RegionPartyResult Party="PvdA" Votes="79" />
+          <RegionPartyResult Party="D66" Votes="190" />
+          <RegionPartyResult Party="VVD" Votes="102" />
+          <RegionPartyResult Party="CDA" Votes="80" />
+          <RegionPartyResult Party="SP" Votes="47" />
+          <RegionPartyResult Party="CU" Votes="27" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="7" />
+          <RegionPartyResult Party="SenS" Votes="16" />
+          <RegionPartyResult Party="SBU" Votes="45" />
+          <RegionPartyResult Party="PVU" Votes="9" />
+          <RegionPartyResult Party="ND" Votes="6" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="12" />
+          <RegionPartyResult Party="PvdD" Votes="25" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="026" Name="Amsterdamsestraatweg 441 A" X="134734" Y="457563">
+      <Result BlankVotes="3" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="226" />
+          <RegionPartyResult Party="PvdA" Votes="76" />
+          <RegionPartyResult Party="D66" Votes="275" />
+          <RegionPartyResult Party="VVD" Votes="52" />
+          <RegionPartyResult Party="CDA" Votes="58" />
+          <RegionPartyResult Party="SP" Votes="88" />
+          <RegionPartyResult Party="CU" Votes="50" />
+          <RegionPartyResult Party="BIP" Votes="5" />
+          <RegionPartyResult Party="OU" Votes="3" />
+          <RegionPartyResult Party="OPAU" Votes="2" />
+          <RegionPartyResult Party="SenS" Votes="75" />
+          <RegionPartyResult Party="SBU" Votes="26" />
+          <RegionPartyResult Party="PVU" Votes="25" />
+          <RegionPartyResult Party="ND" Votes="0" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="9" />
+          <RegionPartyResult Party="PvdD" Votes="16" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="027" Name="St.-Bonifaciusstraat 8" X="134479" Y="457992">
+      <Result BlankVotes="2" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="140" />
+          <RegionPartyResult Party="PvdA" Votes="57" />
+          <RegionPartyResult Party="D66" Votes="132" />
+          <RegionPartyResult Party="VVD" Votes="62" />
+          <RegionPartyResult Party="CDA" Votes="39" />
+          <RegionPartyResult Party="SP" Votes="56" />
+          <RegionPartyResult Party="CU" Votes="26" />
+          <RegionPartyResult Party="BIP" Votes="4" />
+          <RegionPartyResult Party="OU" Votes="8" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="28" />
+          <RegionPartyResult Party="SBU" Votes="18" />
+          <RegionPartyResult Party="PVU" Votes="18" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="16" />
+          <RegionPartyResult Party="PvdD" Votes="21" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="028" Name="St.-Ludgerusstraat 251" X="134422" Y="458024">
+      <Result BlankVotes="2" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="147" />
+          <RegionPartyResult Party="PvdA" Votes="81" />
+          <RegionPartyResult Party="D66" Votes="195" />
+          <RegionPartyResult Party="VVD" Votes="89" />
+          <RegionPartyResult Party="CDA" Votes="30" />
+          <RegionPartyResult Party="SP" Votes="70" />
+          <RegionPartyResult Party="CU" Votes="41" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="14" />
+          <RegionPartyResult Party="OPAU" Votes="11" />
+          <RegionPartyResult Party="SenS" Votes="48" />
+          <RegionPartyResult Party="SBU" Votes="22" />
+          <RegionPartyResult Party="PVU" Votes="36" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="22" />
+          <RegionPartyResult Party="PvdD" Votes="29" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="029" Name="Bisschopsplein 8" X="134549" Y="458129">
+      <Result BlankVotes="1" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="78" />
+          <RegionPartyResult Party="PvdA" Votes="64" />
+          <RegionPartyResult Party="D66" Votes="167" />
+          <RegionPartyResult Party="VVD" Votes="48" />
+          <RegionPartyResult Party="CDA" Votes="29" />
+          <RegionPartyResult Party="SP" Votes="59" />
+          <RegionPartyResult Party="CU" Votes="48" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="7" />
+          <RegionPartyResult Party="OPAU" Votes="8" />
+          <RegionPartyResult Party="SenS" Votes="20" />
+          <RegionPartyResult Party="SBU" Votes="26" />
+          <RegionPartyResult Party="PVU" Votes="28" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="6" />
+          <RegionPartyResult Party="OPU" Votes="10" />
+          <RegionPartyResult Party="PvdD" Votes="23" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="030" Name="Plesmanlaan 21" X="133944" Y="458487">
+      <Result BlankVotes="5" Invalid="5">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="64" />
+          <RegionPartyResult Party="PvdA" Votes="70" />
+          <RegionPartyResult Party="D66" Votes="99" />
+          <RegionPartyResult Party="VVD" Votes="33" />
+          <RegionPartyResult Party="CDA" Votes="28" />
+          <RegionPartyResult Party="SP" Votes="97" />
+          <RegionPartyResult Party="CU" Votes="28" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="11" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="13" />
+          <RegionPartyResult Party="SBU" Votes="33" />
+          <RegionPartyResult Party="PVU" Votes="29" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="22" />
+          <RegionPartyResult Party="PvdD" Votes="21" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="031" Name="Prinses Beatrixlaan 2" X="134261" Y="458691">
+      <Result BlankVotes="6" Invalid="8">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="175" />
+          <RegionPartyResult Party="PvdA" Votes="134" />
+          <RegionPartyResult Party="D66" Votes="223" />
+          <RegionPartyResult Party="VVD" Votes="101" />
+          <RegionPartyResult Party="CDA" Votes="77" />
+          <RegionPartyResult Party="SP" Votes="134" />
+          <RegionPartyResult Party="CU" Votes="119" />
+          <RegionPartyResult Party="BIP" Votes="6" />
+          <RegionPartyResult Party="OU" Votes="16" />
+          <RegionPartyResult Party="OPAU" Votes="11" />
+          <RegionPartyResult Party="SenS" Votes="32" />
+          <RegionPartyResult Party="SBU" Votes="45" />
+          <RegionPartyResult Party="PVU" Votes="20" />
+          <RegionPartyResult Party="ND" Votes="0" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="26" />
+          <RegionPartyResult Party="PvdD" Votes="32" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="032" Name="Prof. H. Bavinckstraat 3" X="133487" Y="459025">
+      <Result BlankVotes="6" Invalid="6">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="47" />
+          <RegionPartyResult Party="PvdA" Votes="127" />
+          <RegionPartyResult Party="D66" Votes="177" />
+          <RegionPartyResult Party="VVD" Votes="84" />
+          <RegionPartyResult Party="CDA" Votes="45" />
+          <RegionPartyResult Party="SP" Votes="130" />
+          <RegionPartyResult Party="CU" Votes="38" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="21" />
+          <RegionPartyResult Party="OPAU" Votes="7" />
+          <RegionPartyResult Party="SenS" Votes="16" />
+          <RegionPartyResult Party="SBU" Votes="41" />
+          <RegionPartyResult Party="PVU" Votes="22" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="22" />
+          <RegionPartyResult Party="PvdD" Votes="18" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="034" Name="Prinses Margrietstraat 124" X="134369" Y="458504">
+      <Result BlankVotes="3" Invalid="11">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="126" />
+          <RegionPartyResult Party="PvdA" Votes="111" />
+          <RegionPartyResult Party="D66" Votes="218" />
+          <RegionPartyResult Party="VVD" Votes="49" />
+          <RegionPartyResult Party="CDA" Votes="40" />
+          <RegionPartyResult Party="SP" Votes="89" />
+          <RegionPartyResult Party="CU" Votes="59" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="27" />
+          <RegionPartyResult Party="OPAU" Votes="12" />
+          <RegionPartyResult Party="SenS" Votes="15" />
+          <RegionPartyResult Party="SBU" Votes="27" />
+          <RegionPartyResult Party="PVU" Votes="17" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="11" />
+          <RegionPartyResult Party="PvdD" Votes="30" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="035" Name="Zwanenvechtlaan 4" X="134466" Y="458395">
+      <Result BlankVotes="10" Invalid="5">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="154" />
+          <RegionPartyResult Party="PvdA" Votes="170" />
+          <RegionPartyResult Party="D66" Votes="163" />
+          <RegionPartyResult Party="VVD" Votes="69" />
+          <RegionPartyResult Party="CDA" Votes="44" />
+          <RegionPartyResult Party="SP" Votes="140" />
+          <RegionPartyResult Party="CU" Votes="44" />
+          <RegionPartyResult Party="BIP" Votes="8" />
+          <RegionPartyResult Party="OU" Votes="34" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="40" />
+          <RegionPartyResult Party="SBU" Votes="18" />
+          <RegionPartyResult Party="PVU" Votes="22" />
+          <RegionPartyResult Party="ND" Votes="5" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="11" />
+          <RegionPartyResult Party="PvdD" Votes="31" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="036" Name="Van Hoornekade 6" X="135084" Y="457910">
+      <Result BlankVotes="4" Invalid="6">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="126" />
+          <RegionPartyResult Party="PvdA" Votes="84" />
+          <RegionPartyResult Party="D66" Votes="155" />
+          <RegionPartyResult Party="VVD" Votes="46" />
+          <RegionPartyResult Party="CDA" Votes="48" />
+          <RegionPartyResult Party="SP" Votes="67" />
+          <RegionPartyResult Party="CU" Votes="47" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="22" />
+          <RegionPartyResult Party="OPAU" Votes="2" />
+          <RegionPartyResult Party="SenS" Votes="31" />
+          <RegionPartyResult Party="SBU" Votes="27" />
+          <RegionPartyResult Party="PVU" Votes="22" />
+          <RegionPartyResult Party="ND" Votes="8" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="23" />
+          <RegionPartyResult Party="PvdD" Votes="14" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="038" Name="Amsterdamsestraatweg 3" X="135951" Y="456441">
+      <Result BlankVotes="13" Invalid="4">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="369" />
+          <RegionPartyResult Party="PvdA" Votes="140" />
+          <RegionPartyResult Party="D66" Votes="579" />
+          <RegionPartyResult Party="VVD" Votes="191" />
+          <RegionPartyResult Party="CDA" Votes="79" />
+          <RegionPartyResult Party="SP" Votes="165" />
+          <RegionPartyResult Party="CU" Votes="40" />
+          <RegionPartyResult Party="BIP" Votes="7" />
+          <RegionPartyResult Party="OU" Votes="39" />
+          <RegionPartyResult Party="OPAU" Votes="1" />
+          <RegionPartyResult Party="SenS" Votes="97" />
+          <RegionPartyResult Party="SBU" Votes="27" />
+          <RegionPartyResult Party="PVU" Votes="27" />
+          <RegionPartyResult Party="ND" Votes="9" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="12" />
+          <RegionPartyResult Party="PvdD" Votes="38" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="040" Name="Oudenoord 700" X="135806" Y="457138">
+      <Result BlankVotes="7" Invalid="4">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="242" />
+          <RegionPartyResult Party="PvdA" Votes="115" />
+          <RegionPartyResult Party="D66" Votes="360" />
+          <RegionPartyResult Party="VVD" Votes="85" />
+          <RegionPartyResult Party="CDA" Votes="31" />
+          <RegionPartyResult Party="SP" Votes="144" />
+          <RegionPartyResult Party="CU" Votes="42" />
+          <RegionPartyResult Party="BIP" Votes="5" />
+          <RegionPartyResult Party="OU" Votes="22" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="59" />
+          <RegionPartyResult Party="SBU" Votes="26" />
+          <RegionPartyResult Party="PVU" Votes="10" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="5" />
+          <RegionPartyResult Party="PvdD" Votes="36" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="041" Name="2e Daalsedijk 2 BS" X="135518" Y="456665">
+      <Result BlankVotes="3" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="122" />
+          <RegionPartyResult Party="PvdA" Votes="79" />
+          <RegionPartyResult Party="D66" Votes="214" />
+          <RegionPartyResult Party="VVD" Votes="47" />
+          <RegionPartyResult Party="CDA" Votes="27" />
+          <RegionPartyResult Party="SP" Votes="62" />
+          <RegionPartyResult Party="CU" Votes="23" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="12" />
+          <RegionPartyResult Party="OPAU" Votes="1" />
+          <RegionPartyResult Party="SenS" Votes="28" />
+          <RegionPartyResult Party="SBU" Votes="10" />
+          <RegionPartyResult Party="PVU" Votes="4" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="3" />
+          <RegionPartyResult Party="PvdD" Votes="12" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="042" Name="Amsterdamsestraatweg 283" X="135225" Y="457101">
+      <Result BlankVotes="5" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="184" />
+          <RegionPartyResult Party="PvdA" Votes="98" />
+          <RegionPartyResult Party="D66" Votes="306" />
+          <RegionPartyResult Party="VVD" Votes="82" />
+          <RegionPartyResult Party="CDA" Votes="47" />
+          <RegionPartyResult Party="SP" Votes="98" />
+          <RegionPartyResult Party="CU" Votes="36" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="19" />
+          <RegionPartyResult Party="OPAU" Votes="9" />
+          <RegionPartyResult Party="SenS" Votes="56" />
+          <RegionPartyResult Party="SBU" Votes="24" />
+          <RegionPartyResult Party="PVU" Votes="26" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="19" />
+          <RegionPartyResult Party="PvdD" Votes="18" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="043" Name="Opzoomerstraat 1" X="135107" Y="457333">
+      <Result BlankVotes="6" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="114" />
+          <RegionPartyResult Party="PvdA" Votes="66" />
+          <RegionPartyResult Party="D66" Votes="124" />
+          <RegionPartyResult Party="VVD" Votes="49" />
+          <RegionPartyResult Party="CDA" Votes="37" />
+          <RegionPartyResult Party="SP" Votes="95" />
+          <RegionPartyResult Party="CU" Votes="28" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="10" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="28" />
+          <RegionPartyResult Party="SBU" Votes="22" />
+          <RegionPartyResult Party="PVU" Votes="17" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="11" />
+          <RegionPartyResult Party="PvdD" Votes="27" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="044" Name="Laan van Chartroise 166" X="135192" Y="457794">
+      <Result BlankVotes="3" Invalid="6">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="193" />
+          <RegionPartyResult Party="PvdA" Votes="116" />
+          <RegionPartyResult Party="D66" Votes="241" />
+          <RegionPartyResult Party="VVD" Votes="88" />
+          <RegionPartyResult Party="CDA" Votes="52" />
+          <RegionPartyResult Party="SP" Votes="152" />
+          <RegionPartyResult Party="CU" Votes="52" />
+          <RegionPartyResult Party="BIP" Votes="8" />
+          <RegionPartyResult Party="OU" Votes="23" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="35" />
+          <RegionPartyResult Party="SBU" Votes="46" />
+          <RegionPartyResult Party="PVU" Votes="9" />
+          <RegionPartyResult Party="ND" Votes="5" />
+          <RegionPartyResult Party="LP" Votes="5" />
+          <RegionPartyResult Party="OPU" Votes="17" />
+          <RegionPartyResult Party="PvdD" Votes="17" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="045" Name="Boerhaaveplein 199" X="135632" Y="457307">
+      <Result BlankVotes="5" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="103" />
+          <RegionPartyResult Party="PvdA" Votes="51" />
+          <RegionPartyResult Party="D66" Votes="94" />
+          <RegionPartyResult Party="VVD" Votes="30" />
+          <RegionPartyResult Party="CDA" Votes="25" />
+          <RegionPartyResult Party="SP" Votes="108" />
+          <RegionPartyResult Party="CU" Votes="42" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="8" />
+          <RegionPartyResult Party="OPAU" Votes="15" />
+          <RegionPartyResult Party="SenS" Votes="25" />
+          <RegionPartyResult Party="SBU" Votes="13" />
+          <RegionPartyResult Party="PVU" Votes="6" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="16" />
+          <RegionPartyResult Party="PvdD" Votes="14" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="047" Name="Jagerskade 13" X="135816" Y="457680">
+      <Result BlankVotes="0" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="98" />
+          <RegionPartyResult Party="PvdA" Votes="59" />
+          <RegionPartyResult Party="D66" Votes="157" />
+          <RegionPartyResult Party="VVD" Votes="37" />
+          <RegionPartyResult Party="CDA" Votes="15" />
+          <RegionPartyResult Party="SP" Votes="50" />
+          <RegionPartyResult Party="CU" Votes="14" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="26" />
+          <RegionPartyResult Party="SBU" Votes="14" />
+          <RegionPartyResult Party="PVU" Votes="23" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="22" />
+          <RegionPartyResult Party="PvdD" Votes="30" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="049" Name="Teun de Jagerdreef 3" X="136636" Y="457970">
+      <Result BlankVotes="3" Invalid="4">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="109" />
+          <RegionPartyResult Party="PvdA" Votes="92" />
+          <RegionPartyResult Party="D66" Votes="115" />
+          <RegionPartyResult Party="VVD" Votes="30" />
+          <RegionPartyResult Party="CDA" Votes="73" />
+          <RegionPartyResult Party="SP" Votes="61" />
+          <RegionPartyResult Party="CU" Votes="155" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="52" />
+          <RegionPartyResult Party="OPAU" Votes="1" />
+          <RegionPartyResult Party="SenS" Votes="39" />
+          <RegionPartyResult Party="SBU" Votes="9" />
+          <RegionPartyResult Party="PVU" Votes="10" />
+          <RegionPartyResult Party="ND" Votes="0" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="12" />
+          <RegionPartyResult Party="PvdD" Votes="17" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="050" Name="Gloriantdreef 1" X="136097" Y="458552">
+      <Result BlankVotes="7" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="155" />
+          <RegionPartyResult Party="PvdA" Votes="172" />
+          <RegionPartyResult Party="D66" Votes="271" />
+          <RegionPartyResult Party="VVD" Votes="101" />
+          <RegionPartyResult Party="CDA" Votes="81" />
+          <RegionPartyResult Party="SP" Votes="177" />
+          <RegionPartyResult Party="CU" Votes="74" />
+          <RegionPartyResult Party="BIP" Votes="10" />
+          <RegionPartyResult Party="OU" Votes="26" />
+          <RegionPartyResult Party="OPAU" Votes="16" />
+          <RegionPartyResult Party="SenS" Votes="45" />
+          <RegionPartyResult Party="SBU" Votes="53" />
+          <RegionPartyResult Party="PVU" Votes="31" />
+          <RegionPartyResult Party="ND" Votes="10" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="52" />
+          <RegionPartyResult Party="PvdD" Votes="33" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="052" Name="Winterboeidreef 8" X="136861" Y="458047">
+      <Result BlankVotes="1" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="135" />
+          <RegionPartyResult Party="PvdA" Votes="78" />
+          <RegionPartyResult Party="D66" Votes="150" />
+          <RegionPartyResult Party="VVD" Votes="34" />
+          <RegionPartyResult Party="CDA" Votes="66" />
+          <RegionPartyResult Party="SP" Votes="84" />
+          <RegionPartyResult Party="CU" Votes="77" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="25" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="23" />
+          <RegionPartyResult Party="SBU" Votes="24" />
+          <RegionPartyResult Party="PVU" Votes="9" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="5" />
+          <RegionPartyResult Party="OPU" Votes="5" />
+          <RegionPartyResult Party="PvdD" Votes="16" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="054" Name="Vulcanusdreef 47" X="137727" Y="458484">
+      <Result BlankVotes="6" Invalid="7">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="52" />
+          <RegionPartyResult Party="PvdA" Votes="114" />
+          <RegionPartyResult Party="D66" Votes="75" />
+          <RegionPartyResult Party="VVD" Votes="24" />
+          <RegionPartyResult Party="CDA" Votes="31" />
+          <RegionPartyResult Party="SP" Votes="107" />
+          <RegionPartyResult Party="CU" Votes="19" />
+          <RegionPartyResult Party="BIP" Votes="4" />
+          <RegionPartyResult Party="OU" Votes="25" />
+          <RegionPartyResult Party="OPAU" Votes="10" />
+          <RegionPartyResult Party="SenS" Votes="2" />
+          <RegionPartyResult Party="SBU" Votes="15" />
+          <RegionPartyResult Party="PVU" Votes="16" />
+          <RegionPartyResult Party="ND" Votes="5" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="18" />
+          <RegionPartyResult Party="PvdD" Votes="21" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="055" Name="Lichtenberchdreef 4" X="136651" Y="458856">
+      <Result BlankVotes="5" Invalid="8">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="78" />
+          <RegionPartyResult Party="PvdA" Votes="210" />
+          <RegionPartyResult Party="D66" Votes="118" />
+          <RegionPartyResult Party="VVD" Votes="31" />
+          <RegionPartyResult Party="CDA" Votes="61" />
+          <RegionPartyResult Party="SP" Votes="175" />
+          <RegionPartyResult Party="CU" Votes="36" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="89" />
+          <RegionPartyResult Party="OPAU" Votes="11" />
+          <RegionPartyResult Party="SenS" Votes="12" />
+          <RegionPartyResult Party="SBU" Votes="39" />
+          <RegionPartyResult Party="PVU" Votes="23" />
+          <RegionPartyResult Party="ND" Votes="0" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="25" />
+          <RegionPartyResult Party="PvdD" Votes="27" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="056" Name="Dommeringdreef 60" X="136821" Y="458926">
+      <Result BlankVotes="1" Invalid="8">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="65" />
+          <RegionPartyResult Party="PvdA" Votes="97" />
+          <RegionPartyResult Party="D66" Votes="63" />
+          <RegionPartyResult Party="VVD" Votes="36" />
+          <RegionPartyResult Party="CDA" Votes="56" />
+          <RegionPartyResult Party="SP" Votes="133" />
+          <RegionPartyResult Party="CU" Votes="24" />
+          <RegionPartyResult Party="BIP" Votes="11" />
+          <RegionPartyResult Party="OU" Votes="42" />
+          <RegionPartyResult Party="OPAU" Votes="9" />
+          <RegionPartyResult Party="SenS" Votes="18" />
+          <RegionPartyResult Party="SBU" Votes="29" />
+          <RegionPartyResult Party="PVU" Votes="19" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="21" />
+          <RegionPartyResult Party="PvdD" Votes="15" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="058" Name="Perudreef 8" X="135119" Y="458810">
+      <Result BlankVotes="5" Invalid="6">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="108" />
+          <RegionPartyResult Party="PvdA" Votes="174" />
+          <RegionPartyResult Party="D66" Votes="120" />
+          <RegionPartyResult Party="VVD" Votes="37" />
+          <RegionPartyResult Party="CDA" Votes="93" />
+          <RegionPartyResult Party="SP" Votes="196" />
+          <RegionPartyResult Party="CU" Votes="28" />
+          <RegionPartyResult Party="BIP" Votes="15" />
+          <RegionPartyResult Party="OU" Votes="40" />
+          <RegionPartyResult Party="OPAU" Votes="10" />
+          <RegionPartyResult Party="SenS" Votes="5" />
+          <RegionPartyResult Party="SBU" Votes="27" />
+          <RegionPartyResult Party="PVU" Votes="24" />
+          <RegionPartyResult Party="ND" Votes="5" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="30" />
+          <RegionPartyResult Party="PvdD" Votes="29" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="060" Name="Costa Ricadreef 9" X="134895" Y="459073">
+      <Result BlankVotes="2" Invalid="10">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="88" />
+          <RegionPartyResult Party="PvdA" Votes="139" />
+          <RegionPartyResult Party="D66" Votes="72" />
+          <RegionPartyResult Party="VVD" Votes="28" />
+          <RegionPartyResult Party="CDA" Votes="70" />
+          <RegionPartyResult Party="SP" Votes="129" />
+          <RegionPartyResult Party="CU" Votes="42" />
+          <RegionPartyResult Party="BIP" Votes="5" />
+          <RegionPartyResult Party="OU" Votes="29" />
+          <RegionPartyResult Party="OPAU" Votes="22" />
+          <RegionPartyResult Party="SenS" Votes="5" />
+          <RegionPartyResult Party="SBU" Votes="49" />
+          <RegionPartyResult Party="PVU" Votes="19" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="16" />
+          <RegionPartyResult Party="PvdD" Votes="31" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="062" Name="Beiroetdreef 3" X="135415" Y="459791">
+      <Result BlankVotes="3" Invalid="5">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="63" />
+          <RegionPartyResult Party="PvdA" Votes="76" />
+          <RegionPartyResult Party="D66" Votes="62" />
+          <RegionPartyResult Party="VVD" Votes="32" />
+          <RegionPartyResult Party="CDA" Votes="56" />
+          <RegionPartyResult Party="SP" Votes="124" />
+          <RegionPartyResult Party="CU" Votes="21" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="30" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="6" />
+          <RegionPartyResult Party="SBU" Votes="30" />
+          <RegionPartyResult Party="PVU" Votes="21" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="12" />
+          <RegionPartyResult Party="PvdD" Votes="14" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="063" Name="Indusdreef 5" X="135482" Y="459546">
+      <Result BlankVotes="1" Invalid="5">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="36" />
+          <RegionPartyResult Party="PvdA" Votes="111" />
+          <RegionPartyResult Party="D66" Votes="55" />
+          <RegionPartyResult Party="VVD" Votes="24" />
+          <RegionPartyResult Party="CDA" Votes="42" />
+          <RegionPartyResult Party="SP" Votes="81" />
+          <RegionPartyResult Party="CU" Votes="21" />
+          <RegionPartyResult Party="BIP" Votes="10" />
+          <RegionPartyResult Party="OU" Votes="28" />
+          <RegionPartyResult Party="OPAU" Votes="11" />
+          <RegionPartyResult Party="SenS" Votes="10" />
+          <RegionPartyResult Party="SBU" Votes="25" />
+          <RegionPartyResult Party="PVU" Votes="11" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="13" />
+          <RegionPartyResult Party="PvdD" Votes="11" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="064" Name="Gambiadreef 60" X="135878" Y="459235">
+      <Result BlankVotes="3" Invalid="6">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="60" />
+          <RegionPartyResult Party="PvdA" Votes="183" />
+          <RegionPartyResult Party="D66" Votes="92" />
+          <RegionPartyResult Party="VVD" Votes="17" />
+          <RegionPartyResult Party="CDA" Votes="51" />
+          <RegionPartyResult Party="SP" Votes="120" />
+          <RegionPartyResult Party="CU" Votes="30" />
+          <RegionPartyResult Party="BIP" Votes="5" />
+          <RegionPartyResult Party="OU" Votes="52" />
+          <RegionPartyResult Party="OPAU" Votes="15" />
+          <RegionPartyResult Party="SenS" Votes="12" />
+          <RegionPartyResult Party="SBU" Votes="20" />
+          <RegionPartyResult Party="PVU" Votes="13" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="10" />
+          <RegionPartyResult Party="PvdD" Votes="16" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="065" Name="Ramsesdreef 190" X="136215" Y="459556">
+      <Result BlankVotes="2" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="59" />
+          <RegionPartyResult Party="PvdA" Votes="126" />
+          <RegionPartyResult Party="D66" Votes="88" />
+          <RegionPartyResult Party="VVD" Votes="43" />
+          <RegionPartyResult Party="CDA" Votes="66" />
+          <RegionPartyResult Party="SP" Votes="118" />
+          <RegionPartyResult Party="CU" Votes="37" />
+          <RegionPartyResult Party="BIP" Votes="13" />
+          <RegionPartyResult Party="OU" Votes="41" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="6" />
+          <RegionPartyResult Party="SBU" Votes="35" />
+          <RegionPartyResult Party="PVU" Votes="23" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="12" />
+          <RegionPartyResult Party="PvdD" Votes="23" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="067" Name="Draaiweg 51" X="136279" Y="456985">
+      <Result BlankVotes="2" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="383" />
+          <RegionPartyResult Party="PvdA" Votes="167" />
+          <RegionPartyResult Party="D66" Votes="553" />
+          <RegionPartyResult Party="VVD" Votes="221" />
+          <RegionPartyResult Party="CDA" Votes="56" />
+          <RegionPartyResult Party="SP" Votes="150" />
+          <RegionPartyResult Party="CU" Votes="44" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="5" />
+          <RegionPartyResult Party="OPAU" Votes="8" />
+          <RegionPartyResult Party="SenS" Votes="58" />
+          <RegionPartyResult Party="SBU" Votes="40" />
+          <RegionPartyResult Party="PVU" Votes="20" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="11" />
+          <RegionPartyResult Party="OPU" Votes="5" />
+          <RegionPartyResult Party="PvdD" Votes="35" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="069" Name="Willem Arntszkade 5" X="136584" Y="456978">
+      <Result BlankVotes="4" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="234" />
+          <RegionPartyResult Party="PvdA" Votes="92" />
+          <RegionPartyResult Party="D66" Votes="322" />
+          <RegionPartyResult Party="VVD" Votes="117" />
+          <RegionPartyResult Party="CDA" Votes="34" />
+          <RegionPartyResult Party="SP" Votes="95" />
+          <RegionPartyResult Party="CU" Votes="34" />
+          <RegionPartyResult Party="BIP" Votes="4" />
+          <RegionPartyResult Party="OU" Votes="6" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="44" />
+          <RegionPartyResult Party="SBU" Votes="18" />
+          <RegionPartyResult Party="PVU" Votes="7" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="6" />
+          <RegionPartyResult Party="PvdD" Votes="26" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="070" Name="Van Swindenstraat 129" X="137296" Y="457071">
+      <Result BlankVotes="1" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="236" />
+          <RegionPartyResult Party="PvdA" Votes="74" />
+          <RegionPartyResult Party="D66" Votes="323" />
+          <RegionPartyResult Party="VVD" Votes="92" />
+          <RegionPartyResult Party="CDA" Votes="41" />
+          <RegionPartyResult Party="SP" Votes="88" />
+          <RegionPartyResult Party="CU" Votes="46" />
+          <RegionPartyResult Party="BIP" Votes="4" />
+          <RegionPartyResult Party="OU" Votes="5" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="23" />
+          <RegionPartyResult Party="SBU" Votes="24" />
+          <RegionPartyResult Party="PVU" Votes="3" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="11" />
+          <RegionPartyResult Party="PvdD" Votes="29" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="071" Name="B.F. Suermanstraat 1" X="136777" Y="457230">
+      <Result BlankVotes="2" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="265" />
+          <RegionPartyResult Party="PvdA" Votes="105" />
+          <RegionPartyResult Party="D66" Votes="335" />
+          <RegionPartyResult Party="VVD" Votes="93" />
+          <RegionPartyResult Party="CDA" Votes="43" />
+          <RegionPartyResult Party="SP" Votes="78" />
+          <RegionPartyResult Party="CU" Votes="24" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="4" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="26" />
+          <RegionPartyResult Party="SBU" Votes="21" />
+          <RegionPartyResult Party="PVU" Votes="10" />
+          <RegionPartyResult Party="ND" Votes="6" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="6" />
+          <RegionPartyResult Party="PvdD" Votes="34" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="073" Name="Samuel van Houtenstraat 1" X="136446" Y="457384">
+      <Result BlankVotes="15" Invalid="5">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="363" />
+          <RegionPartyResult Party="PvdA" Votes="148" />
+          <RegionPartyResult Party="D66" Votes="362" />
+          <RegionPartyResult Party="VVD" Votes="91" />
+          <RegionPartyResult Party="CDA" Votes="53" />
+          <RegionPartyResult Party="SP" Votes="205" />
+          <RegionPartyResult Party="CU" Votes="88" />
+          <RegionPartyResult Party="BIP" Votes="7" />
+          <RegionPartyResult Party="OU" Votes="30" />
+          <RegionPartyResult Party="OPAU" Votes="9" />
+          <RegionPartyResult Party="SenS" Votes="48" />
+          <RegionPartyResult Party="SBU" Votes="31" />
+          <RegionPartyResult Party="PVU" Votes="12" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="15" />
+          <RegionPartyResult Party="PvdD" Votes="41" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="074" Name="Bouwstraat 55" X="137545" Y="456532">
+      <Result BlankVotes="4" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="251" />
+          <RegionPartyResult Party="PvdA" Votes="109" />
+          <RegionPartyResult Party="D66" Votes="337" />
+          <RegionPartyResult Party="VVD" Votes="135" />
+          <RegionPartyResult Party="CDA" Votes="51" />
+          <RegionPartyResult Party="SP" Votes="110" />
+          <RegionPartyResult Party="CU" Votes="28" />
+          <RegionPartyResult Party="BIP" Votes="4" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="4" />
+          <RegionPartyResult Party="SenS" Votes="31" />
+          <RegionPartyResult Party="SBU" Votes="28" />
+          <RegionPartyResult Party="PVU" Votes="1" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="3" />
+          <RegionPartyResult Party="PvdD" Votes="22" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="075" Name="F.C. Dondersstraat 1" X="137975" Y="456451">
+      <Result BlankVotes="2" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="168" />
+          <RegionPartyResult Party="PvdA" Votes="58" />
+          <RegionPartyResult Party="D66" Votes="287" />
+          <RegionPartyResult Party="VVD" Votes="99" />
+          <RegionPartyResult Party="CDA" Votes="28" />
+          <RegionPartyResult Party="SP" Votes="82" />
+          <RegionPartyResult Party="CU" Votes="28" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="2" />
+          <RegionPartyResult Party="OPAU" Votes="0" />
+          <RegionPartyResult Party="SenS" Votes="53" />
+          <RegionPartyResult Party="SBU" Votes="17" />
+          <RegionPartyResult Party="PVU" Votes="8" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="1" />
+          <RegionPartyResult Party="PvdD" Votes="26" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="076" Name="Poortstraat 73" X="137753" Y="456714">
+      <Result BlankVotes="5" Invalid="4">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="398" />
+          <RegionPartyResult Party="PvdA" Votes="158" />
+          <RegionPartyResult Party="D66" Votes="658" />
+          <RegionPartyResult Party="VVD" Votes="195" />
+          <RegionPartyResult Party="CDA" Votes="46" />
+          <RegionPartyResult Party="SP" Votes="153" />
+          <RegionPartyResult Party="CU" Votes="51" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="4" />
+          <RegionPartyResult Party="SenS" Votes="43" />
+          <RegionPartyResult Party="SBU" Votes="39" />
+          <RegionPartyResult Party="PVU" Votes="10" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="8" />
+          <RegionPartyResult Party="OPU" Votes="3" />
+          <RegionPartyResult Party="PvdD" Votes="45" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="077" Name="Oude Kerkstraat 2A" X="137650" Y="456457">
+      <Result BlankVotes="3" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="161" />
+          <RegionPartyResult Party="PvdA" Votes="58" />
+          <RegionPartyResult Party="D66" Votes="248" />
+          <RegionPartyResult Party="VVD" Votes="91" />
+          <RegionPartyResult Party="CDA" Votes="30" />
+          <RegionPartyResult Party="SP" Votes="40" />
+          <RegionPartyResult Party="CU" Votes="16" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="4" />
+          <RegionPartyResult Party="OPAU" Votes="1" />
+          <RegionPartyResult Party="SenS" Votes="36" />
+          <RegionPartyResult Party="SBU" Votes="10" />
+          <RegionPartyResult Party="PVU" Votes="4" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="1" />
+          <RegionPartyResult Party="PvdD" Votes="12" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="078" Name="Smijerslaan 2" X="138138" Y="456959">
+      <Result BlankVotes="1" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="162" />
+          <RegionPartyResult Party="PvdA" Votes="69" />
+          <RegionPartyResult Party="D66" Votes="227" />
+          <RegionPartyResult Party="VVD" Votes="111" />
+          <RegionPartyResult Party="CDA" Votes="37" />
+          <RegionPartyResult Party="SP" Votes="56" />
+          <RegionPartyResult Party="CU" Votes="18" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="21" />
+          <RegionPartyResult Party="SBU" Votes="20" />
+          <RegionPartyResult Party="PVU" Votes="6" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="5" />
+          <RegionPartyResult Party="PvdD" Votes="19" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="080" Name="Willem de Zwijgerplantsoen 19" X="137334" Y="457780">
+      <Result BlankVotes="1" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="190" />
+          <RegionPartyResult Party="PvdA" Votes="121" />
+          <RegionPartyResult Party="D66" Votes="352" />
+          <RegionPartyResult Party="VVD" Votes="159" />
+          <RegionPartyResult Party="CDA" Votes="71" />
+          <RegionPartyResult Party="SP" Votes="56" />
+          <RegionPartyResult Party="CU" Votes="42" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="3" />
+          <RegionPartyResult Party="OPAU" Votes="4" />
+          <RegionPartyResult Party="SenS" Votes="24" />
+          <RegionPartyResult Party="SBU" Votes="32" />
+          <RegionPartyResult Party="PVU" Votes="2" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="5" />
+          <RegionPartyResult Party="PvdD" Votes="16" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="081" Name="Vogelsanglaan 1" X="137595" Y="457287">
+      <Result BlankVotes="2" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="255" />
+          <RegionPartyResult Party="PvdA" Votes="159" />
+          <RegionPartyResult Party="D66" Votes="384" />
+          <RegionPartyResult Party="VVD" Votes="153" />
+          <RegionPartyResult Party="CDA" Votes="122" />
+          <RegionPartyResult Party="SP" Votes="137" />
+          <RegionPartyResult Party="CU" Votes="79" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="5" />
+          <RegionPartyResult Party="OPAU" Votes="11" />
+          <RegionPartyResult Party="SenS" Votes="46" />
+          <RegionPartyResult Party="SBU" Votes="52" />
+          <RegionPartyResult Party="PVU" Votes="19" />
+          <RegionPartyResult Party="ND" Votes="10" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="16" />
+          <RegionPartyResult Party="PvdD" Votes="41" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="082" Name="Sartreweg 11" X="138377" Y="457570">
+      <Result BlankVotes="3" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="163" />
+          <RegionPartyResult Party="PvdA" Votes="58" />
+          <RegionPartyResult Party="D66" Votes="192" />
+          <RegionPartyResult Party="VVD" Votes="67" />
+          <RegionPartyResult Party="CDA" Votes="39" />
+          <RegionPartyResult Party="SP" Votes="75" />
+          <RegionPartyResult Party="CU" Votes="17" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="3" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="6" />
+          <RegionPartyResult Party="SBU" Votes="46" />
+          <RegionPartyResult Party="PVU" Votes="7" />
+          <RegionPartyResult Party="ND" Votes="5" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="11" />
+          <RegionPartyResult Party="PvdD" Votes="21" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="083" Name="Ché Guévarastraat 15" X="138505" Y="458166">
+      <Result BlankVotes="3" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="181" />
+          <RegionPartyResult Party="PvdA" Votes="119" />
+          <RegionPartyResult Party="D66" Votes="250" />
+          <RegionPartyResult Party="VVD" Votes="84" />
+          <RegionPartyResult Party="CDA" Votes="45" />
+          <RegionPartyResult Party="SP" Votes="98" />
+          <RegionPartyResult Party="CU" Votes="17" />
+          <RegionPartyResult Party="BIP" Votes="5" />
+          <RegionPartyResult Party="OU" Votes="5" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="13" />
+          <RegionPartyResult Party="SBU" Votes="29" />
+          <RegionPartyResult Party="PVU" Votes="26" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="7" />
+          <RegionPartyResult Party="PvdD" Votes="26" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="084" Name="Winklerlaan 365" X="137956" Y="457970">
+      <Result BlankVotes="1" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="122" />
+          <RegionPartyResult Party="PvdA" Votes="89" />
+          <RegionPartyResult Party="D66" Votes="167" />
+          <RegionPartyResult Party="VVD" Votes="122" />
+          <RegionPartyResult Party="CDA" Votes="121" />
+          <RegionPartyResult Party="SP" Votes="86" />
+          <RegionPartyResult Party="CU" Votes="44" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="2" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="9" />
+          <RegionPartyResult Party="SBU" Votes="70" />
+          <RegionPartyResult Party="PVU" Votes="11" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="16" />
+          <RegionPartyResult Party="PvdD" Votes="11" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="085" Name="Eykmanlaan 72" X="137590" Y="457751">
+      <Result BlankVotes="0" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="151" />
+          <RegionPartyResult Party="PvdA" Votes="102" />
+          <RegionPartyResult Party="D66" Votes="244" />
+          <RegionPartyResult Party="VVD" Votes="121" />
+          <RegionPartyResult Party="CDA" Votes="79" />
+          <RegionPartyResult Party="SP" Votes="48" />
+          <RegionPartyResult Party="CU" Votes="30" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="8" />
+          <RegionPartyResult Party="SenS" Votes="9" />
+          <RegionPartyResult Party="SBU" Votes="40" />
+          <RegionPartyResult Party="PVU" Votes="10" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="8" />
+          <RegionPartyResult Party="PvdD" Votes="18" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="086" Name="Prof. van Bemmelenlaan 34" X="137354" Y="457991">
+      <Result BlankVotes="2" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="185" />
+          <RegionPartyResult Party="PvdA" Votes="111" />
+          <RegionPartyResult Party="D66" Votes="323" />
+          <RegionPartyResult Party="VVD" Votes="137" />
+          <RegionPartyResult Party="CDA" Votes="61" />
+          <RegionPartyResult Party="SP" Votes="41" />
+          <RegionPartyResult Party="CU" Votes="30" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="4" />
+          <RegionPartyResult Party="SenS" Votes="16" />
+          <RegionPartyResult Party="SBU" Votes="32" />
+          <RegionPartyResult Party="PVU" Votes="9" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="9" />
+          <RegionPartyResult Party="PvdD" Votes="17" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="087" Name="Christiaan Krammlaan 2" X="136764" Y="457856">
+      <Result BlankVotes="8" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="188" />
+          <RegionPartyResult Party="PvdA" Votes="55" />
+          <RegionPartyResult Party="D66" Votes="212" />
+          <RegionPartyResult Party="VVD" Votes="46" />
+          <RegionPartyResult Party="CDA" Votes="38" />
+          <RegionPartyResult Party="SP" Votes="41" />
+          <RegionPartyResult Party="CU" Votes="23" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="0" />
+          <RegionPartyResult Party="SenS" Votes="140" />
+          <RegionPartyResult Party="SBU" Votes="11" />
+          <RegionPartyResult Party="PVU" Votes="8" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="0" />
+          <RegionPartyResult Party="PvdD" Votes="18" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="088" Name="Kruisstraat 201" X="137395" Y="456245">
+      <Result BlankVotes="3" Invalid="4">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="200" />
+          <RegionPartyResult Party="PvdA" Votes="56" />
+          <RegionPartyResult Party="D66" Votes="298" />
+          <RegionPartyResult Party="VVD" Votes="93" />
+          <RegionPartyResult Party="CDA" Votes="39" />
+          <RegionPartyResult Party="SP" Votes="92" />
+          <RegionPartyResult Party="CU" Votes="28" />
+          <RegionPartyResult Party="BIP" Votes="5" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="35" />
+          <RegionPartyResult Party="SBU" Votes="16" />
+          <RegionPartyResult Party="PVU" Votes="6" />
+          <RegionPartyResult Party="ND" Votes="5" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="9" />
+          <RegionPartyResult Party="PvdD" Votes="21" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="089" Name="Kruisdwarsstraat 6" X="137500" Y="456208">
+      <Result BlankVotes="1" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="188" />
+          <RegionPartyResult Party="PvdA" Votes="71" />
+          <RegionPartyResult Party="D66" Votes="271" />
+          <RegionPartyResult Party="VVD" Votes="104" />
+          <RegionPartyResult Party="CDA" Votes="34" />
+          <RegionPartyResult Party="SP" Votes="47" />
+          <RegionPartyResult Party="CU" Votes="19" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="2" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="23" />
+          <RegionPartyResult Party="SBU" Votes="9" />
+          <RegionPartyResult Party="PVU" Votes="3" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="2" />
+          <RegionPartyResult Party="PvdD" Votes="20" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="090" Name="Schoolplein 6" X="137371" Y="455939">
+      <Result BlankVotes="1" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="160" />
+          <RegionPartyResult Party="PvdA" Votes="77" />
+          <RegionPartyResult Party="D66" Votes="345" />
+          <RegionPartyResult Party="VVD" Votes="124" />
+          <RegionPartyResult Party="CDA" Votes="42" />
+          <RegionPartyResult Party="SP" Votes="57" />
+          <RegionPartyResult Party="CU" Votes="14" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="3" />
+          <RegionPartyResult Party="OPAU" Votes="2" />
+          <RegionPartyResult Party="SenS" Votes="34" />
+          <RegionPartyResult Party="SBU" Votes="11" />
+          <RegionPartyResult Party="PVU" Votes="1" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="0" />
+          <RegionPartyResult Party="PvdD" Votes="17" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="091" Name="Oudwijkerdwarsstraat 148" X="137735" Y="455608">
+      <Result BlankVotes="5" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="435" />
+          <RegionPartyResult Party="PvdA" Votes="157" />
+          <RegionPartyResult Party="D66" Votes="619" />
+          <RegionPartyResult Party="VVD" Votes="205" />
+          <RegionPartyResult Party="CDA" Votes="84" />
+          <RegionPartyResult Party="SP" Votes="135" />
+          <RegionPartyResult Party="CU" Votes="67" />
+          <RegionPartyResult Party="BIP" Votes="8" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="10" />
+          <RegionPartyResult Party="SenS" Votes="68" />
+          <RegionPartyResult Party="SBU" Votes="49" />
+          <RegionPartyResult Party="PVU" Votes="13" />
+          <RegionPartyResult Party="ND" Votes="9" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="16" />
+          <RegionPartyResult Party="PvdD" Votes="67" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="093" Name="Homeruslaan 40" X="137765" Y="455333">
+      <Result BlankVotes="2" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="206" />
+          <RegionPartyResult Party="PvdA" Votes="64" />
+          <RegionPartyResult Party="D66" Votes="298" />
+          <RegionPartyResult Party="VVD" Votes="131" />
+          <RegionPartyResult Party="CDA" Votes="37" />
+          <RegionPartyResult Party="SP" Votes="93" />
+          <RegionPartyResult Party="CU" Votes="30" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="29" />
+          <RegionPartyResult Party="SBU" Votes="20" />
+          <RegionPartyResult Party="PVU" Votes="5" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="7" />
+          <RegionPartyResult Party="PvdD" Votes="17" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="094" Name="Alkhof 55" X="137041" Y="454663">
+      <Result BlankVotes="5" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="205" />
+          <RegionPartyResult Party="PvdA" Votes="71" />
+          <RegionPartyResult Party="D66" Votes="341" />
+          <RegionPartyResult Party="VVD" Votes="108" />
+          <RegionPartyResult Party="CDA" Votes="48" />
+          <RegionPartyResult Party="SP" Votes="82" />
+          <RegionPartyResult Party="CU" Votes="28" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="4" />
+          <RegionPartyResult Party="OPAU" Votes="1" />
+          <RegionPartyResult Party="SenS" Votes="55" />
+          <RegionPartyResult Party="SBU" Votes="26" />
+          <RegionPartyResult Party="PVU" Votes="8" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="11" />
+          <RegionPartyResult Party="PvdD" Votes="28" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="095" Name="Keerkringplein 40" X="137231" Y="454768">
+      <Result BlankVotes="0" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="127" />
+          <RegionPartyResult Party="PvdA" Votes="41" />
+          <RegionPartyResult Party="D66" Votes="208" />
+          <RegionPartyResult Party="VVD" Votes="63" />
+          <RegionPartyResult Party="CDA" Votes="47" />
+          <RegionPartyResult Party="SP" Votes="68" />
+          <RegionPartyResult Party="CU" Votes="14" />
+          <RegionPartyResult Party="BIP" Votes="5" />
+          <RegionPartyResult Party="OU" Votes="3" />
+          <RegionPartyResult Party="OPAU" Votes="4" />
+          <RegionPartyResult Party="SenS" Votes="27" />
+          <RegionPartyResult Party="SBU" Votes="34" />
+          <RegionPartyResult Party="PVU" Votes="31" />
+          <RegionPartyResult Party="ND" Votes="0" />
+          <RegionPartyResult Party="LP" Votes="5" />
+          <RegionPartyResult Party="OPU" Votes="20" />
+          <RegionPartyResult Party="PvdD" Votes="22" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="096" Name="Burgemeester Fockema Andreaelaan 9" X="137804" Y="454945">
+      <Result BlankVotes="5" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="359" />
+          <RegionPartyResult Party="PvdA" Votes="104" />
+          <RegionPartyResult Party="D66" Votes="527" />
+          <RegionPartyResult Party="VVD" Votes="113" />
+          <RegionPartyResult Party="CDA" Votes="50" />
+          <RegionPartyResult Party="SP" Votes="92" />
+          <RegionPartyResult Party="CU" Votes="41" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="10" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="200" />
+          <RegionPartyResult Party="SBU" Votes="11" />
+          <RegionPartyResult Party="PVU" Votes="17" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="8" />
+          <RegionPartyResult Party="OPU" Votes="16" />
+          <RegionPartyResult Party="PvdD" Votes="42" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="098" Name="Burgemeester Fockema Andreaelaan 100" X="137925" Y="454693">
+      <Result BlankVotes="3" Invalid="6">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="120" />
+          <RegionPartyResult Party="PvdA" Votes="71" />
+          <RegionPartyResult Party="D66" Votes="212" />
+          <RegionPartyResult Party="VVD" Votes="92" />
+          <RegionPartyResult Party="CDA" Votes="61" />
+          <RegionPartyResult Party="SP" Votes="62" />
+          <RegionPartyResult Party="CU" Votes="29" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="6" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="22" />
+          <RegionPartyResult Party="SBU" Votes="23" />
+          <RegionPartyResult Party="PVU" Votes="6" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="27" />
+          <RegionPartyResult Party="PvdD" Votes="21" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="099" Name="Koningsweg 2" X="137589" Y="454382">
+      <Result BlankVotes="5" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="164" />
+          <RegionPartyResult Party="PvdA" Votes="62" />
+          <RegionPartyResult Party="D66" Votes="202" />
+          <RegionPartyResult Party="VVD" Votes="65" />
+          <RegionPartyResult Party="CDA" Votes="32" />
+          <RegionPartyResult Party="SP" Votes="84" />
+          <RegionPartyResult Party="CU" Votes="23" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="2" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="24" />
+          <RegionPartyResult Party="SBU" Votes="26" />
+          <RegionPartyResult Party="PVU" Votes="11" />
+          <RegionPartyResult Party="ND" Votes="0" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="11" />
+          <RegionPartyResult Party="PvdD" Votes="33" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="100" Name="Frans Halsstraat 22 A" X="138278" Y="455258">
+      <Result BlankVotes="1" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="306" />
+          <RegionPartyResult Party="PvdA" Votes="109" />
+          <RegionPartyResult Party="D66" Votes="419" />
+          <RegionPartyResult Party="VVD" Votes="156" />
+          <RegionPartyResult Party="CDA" Votes="67" />
+          <RegionPartyResult Party="SP" Votes="119" />
+          <RegionPartyResult Party="CU" Votes="44" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="1" />
+          <RegionPartyResult Party="SenS" Votes="41" />
+          <RegionPartyResult Party="SBU" Votes="33" />
+          <RegionPartyResult Party="PVU" Votes="1" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="16" />
+          <RegionPartyResult Party="PvdD" Votes="37" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="101" Name="Rembrandtkade 10" X="138448" Y="455464">
+      <Result BlankVotes="2" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="196" />
+          <RegionPartyResult Party="PvdA" Votes="104" />
+          <RegionPartyResult Party="D66" Votes="285" />
+          <RegionPartyResult Party="VVD" Votes="85" />
+          <RegionPartyResult Party="CDA" Votes="28" />
+          <RegionPartyResult Party="SP" Votes="67" />
+          <RegionPartyResult Party="CU" Votes="26" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="5" />
+          <RegionPartyResult Party="OPAU" Votes="1" />
+          <RegionPartyResult Party="SenS" Votes="34" />
+          <RegionPartyResult Party="SBU" Votes="12" />
+          <RegionPartyResult Party="PVU" Votes="3" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="5" />
+          <RegionPartyResult Party="PvdD" Votes="12" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="102" Name="Oudwijkerveldstraat 120" X="138023" Y="455862">
+      <Result BlankVotes="0" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="169" />
+          <RegionPartyResult Party="PvdA" Votes="74" />
+          <RegionPartyResult Party="D66" Votes="325" />
+          <RegionPartyResult Party="VVD" Votes="163" />
+          <RegionPartyResult Party="CDA" Votes="44" />
+          <RegionPartyResult Party="SP" Votes="56" />
+          <RegionPartyResult Party="CU" Votes="35" />
+          <RegionPartyResult Party="BIP" Votes="4" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="0" />
+          <RegionPartyResult Party="SenS" Votes="32" />
+          <RegionPartyResult Party="SBU" Votes="23" />
+          <RegionPartyResult Party="PVU" Votes="8" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="5" />
+          <RegionPartyResult Party="PvdD" Votes="21" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="103" Name="Jan Muschlaan 24" X="138955" Y="455397">
+      <Result BlankVotes="3" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="198" />
+          <RegionPartyResult Party="PvdA" Votes="78" />
+          <RegionPartyResult Party="D66" Votes="420" />
+          <RegionPartyResult Party="VVD" Votes="151" />
+          <RegionPartyResult Party="CDA" Votes="44" />
+          <RegionPartyResult Party="SP" Votes="76" />
+          <RegionPartyResult Party="CU" Votes="26" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="69" />
+          <RegionPartyResult Party="SBU" Votes="26" />
+          <RegionPartyResult Party="PVU" Votes="5" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="2" />
+          <RegionPartyResult Party="PvdD" Votes="18" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="104" Name="Maupertuusplein 1" X="138630" Y="454915">
+      <Result BlankVotes="1" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="101" />
+          <RegionPartyResult Party="PvdA" Votes="42" />
+          <RegionPartyResult Party="D66" Votes="214" />
+          <RegionPartyResult Party="VVD" Votes="91" />
+          <RegionPartyResult Party="CDA" Votes="24" />
+          <RegionPartyResult Party="SP" Votes="13" />
+          <RegionPartyResult Party="CU" Votes="12" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="0" />
+          <RegionPartyResult Party="OPAU" Votes="2" />
+          <RegionPartyResult Party="SenS" Votes="44" />
+          <RegionPartyResult Party="SBU" Votes="21" />
+          <RegionPartyResult Party="PVU" Votes="2" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="2" />
+          <RegionPartyResult Party="PvdD" Votes="13" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="105" Name="Padualaan 99" X="140061" Y="455161">
+      <Result BlankVotes="4" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="114" />
+          <RegionPartyResult Party="PvdA" Votes="39" />
+          <RegionPartyResult Party="D66" Votes="168" />
+          <RegionPartyResult Party="VVD" Votes="32" />
+          <RegionPartyResult Party="CDA" Votes="18" />
+          <RegionPartyResult Party="SP" Votes="32" />
+          <RegionPartyResult Party="CU" Votes="14" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="1" />
+          <RegionPartyResult Party="SenS" Votes="84" />
+          <RegionPartyResult Party="SBU" Votes="4" />
+          <RegionPartyResult Party="PVU" Votes="2" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="0" />
+          <RegionPartyResult Party="PvdD" Votes="14" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="106" Name="Saffierlaan 10" X="137206" Y="454164">
+      <Result BlankVotes="2" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="174" />
+          <RegionPartyResult Party="PvdA" Votes="87" />
+          <RegionPartyResult Party="D66" Votes="265" />
+          <RegionPartyResult Party="VVD" Votes="79" />
+          <RegionPartyResult Party="CDA" Votes="58" />
+          <RegionPartyResult Party="SP" Votes="107" />
+          <RegionPartyResult Party="CU" Votes="46" />
+          <RegionPartyResult Party="BIP" Votes="6" />
+          <RegionPartyResult Party="OU" Votes="2" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="43" />
+          <RegionPartyResult Party="SBU" Votes="21" />
+          <RegionPartyResult Party="PVU" Votes="14" />
+          <RegionPartyResult Party="ND" Votes="0" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="11" />
+          <RegionPartyResult Party="PvdD" Votes="19" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="107" Name="Elandplein 25" X="137379" Y="453978">
+      <Result BlankVotes="2" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="121" />
+          <RegionPartyResult Party="PvdA" Votes="86" />
+          <RegionPartyResult Party="D66" Votes="176" />
+          <RegionPartyResult Party="VVD" Votes="33" />
+          <RegionPartyResult Party="CDA" Votes="31" />
+          <RegionPartyResult Party="SP" Votes="71" />
+          <RegionPartyResult Party="CU" Votes="30" />
+          <RegionPartyResult Party="BIP" Votes="8" />
+          <RegionPartyResult Party="OU" Votes="6" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="41" />
+          <RegionPartyResult Party="SBU" Votes="10" />
+          <RegionPartyResult Party="PVU" Votes="12" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="5" />
+          <RegionPartyResult Party="PvdD" Votes="13" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="109" Name="Verlengde Hoogravenseweg 203" X="136464" Y="453306">
+      <Result BlankVotes="8" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="204" />
+          <RegionPartyResult Party="PvdA" Votes="81" />
+          <RegionPartyResult Party="D66" Votes="350" />
+          <RegionPartyResult Party="VVD" Votes="84" />
+          <RegionPartyResult Party="CDA" Votes="36" />
+          <RegionPartyResult Party="SP" Votes="100" />
+          <RegionPartyResult Party="CU" Votes="33" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="0" />
+          <RegionPartyResult Party="OPAU" Votes="6" />
+          <RegionPartyResult Party="SenS" Votes="28" />
+          <RegionPartyResult Party="SBU" Votes="31" />
+          <RegionPartyResult Party="PVU" Votes="15" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="12" />
+          <RegionPartyResult Party="PvdD" Votes="15" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="110" Name="Verlengde Hoogravenseweg 150 A" X="136481" Y="452965">
+      <Result BlankVotes="0" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="205" />
+          <RegionPartyResult Party="PvdA" Votes="100" />
+          <RegionPartyResult Party="D66" Votes="306" />
+          <RegionPartyResult Party="VVD" Votes="81" />
+          <RegionPartyResult Party="CDA" Votes="72" />
+          <RegionPartyResult Party="SP" Votes="117" />
+          <RegionPartyResult Party="CU" Votes="44" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="4" />
+          <RegionPartyResult Party="OPAU" Votes="9" />
+          <RegionPartyResult Party="SenS" Votes="24" />
+          <RegionPartyResult Party="SBU" Votes="48" />
+          <RegionPartyResult Party="PVU" Votes="14" />
+          <RegionPartyResult Party="ND" Votes="8" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="31" />
+          <RegionPartyResult Party="PvdD" Votes="20" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="112" Name="Wijnesteinlaan 2" X="136803" Y="452959">
+      <Result BlankVotes="7" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="140" />
+          <RegionPartyResult Party="PvdA" Votes="169" />
+          <RegionPartyResult Party="D66" Votes="181" />
+          <RegionPartyResult Party="VVD" Votes="51" />
+          <RegionPartyResult Party="CDA" Votes="52" />
+          <RegionPartyResult Party="SP" Votes="205" />
+          <RegionPartyResult Party="CU" Votes="47" />
+          <RegionPartyResult Party="BIP" Votes="5" />
+          <RegionPartyResult Party="OU" Votes="32" />
+          <RegionPartyResult Party="OPAU" Votes="11" />
+          <RegionPartyResult Party="SenS" Votes="15" />
+          <RegionPartyResult Party="SBU" Votes="16" />
+          <RegionPartyResult Party="PVU" Votes="14" />
+          <RegionPartyResult Party="ND" Votes="0" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="14" />
+          <RegionPartyResult Party="PvdD" Votes="20" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="113" Name="Oud-Wulvenlaan 4 A" X="136948" Y="453367">
+      <Result BlankVotes="6" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="271" />
+          <RegionPartyResult Party="PvdA" Votes="165" />
+          <RegionPartyResult Party="D66" Votes="429" />
+          <RegionPartyResult Party="VVD" Votes="109" />
+          <RegionPartyResult Party="CDA" Votes="128" />
+          <RegionPartyResult Party="SP" Votes="212" />
+          <RegionPartyResult Party="CU" Votes="52" />
+          <RegionPartyResult Party="BIP" Votes="5" />
+          <RegionPartyResult Party="OU" Votes="22" />
+          <RegionPartyResult Party="OPAU" Votes="17" />
+          <RegionPartyResult Party="SenS" Votes="33" />
+          <RegionPartyResult Party="SBU" Votes="53" />
+          <RegionPartyResult Party="PVU" Votes="32" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="33" />
+          <RegionPartyResult Party="PvdD" Votes="31" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="114" Name="Eifel 20" X="137642" Y="452566">
+      <Result BlankVotes="1" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="225" />
+          <RegionPartyResult Party="PvdA" Votes="82" />
+          <RegionPartyResult Party="D66" Votes="178" />
+          <RegionPartyResult Party="VVD" Votes="60" />
+          <RegionPartyResult Party="CDA" Votes="62" />
+          <RegionPartyResult Party="SP" Votes="143" />
+          <RegionPartyResult Party="CU" Votes="44" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="3" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="23" />
+          <RegionPartyResult Party="SBU" Votes="23" />
+          <RegionPartyResult Party="PVU" Votes="7" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="17" />
+          <RegionPartyResult Party="PvdD" Votes="28" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="115" Name="Goeree 4" X="137757" Y="452608">
+      <Result BlankVotes="4" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="460" />
+          <RegionPartyResult Party="PvdA" Votes="164" />
+          <RegionPartyResult Party="D66" Votes="276" />
+          <RegionPartyResult Party="VVD" Votes="60" />
+          <RegionPartyResult Party="CDA" Votes="45" />
+          <RegionPartyResult Party="SP" Votes="205" />
+          <RegionPartyResult Party="CU" Votes="60" />
+          <RegionPartyResult Party="BIP" Votes="6" />
+          <RegionPartyResult Party="OU" Votes="7" />
+          <RegionPartyResult Party="OPAU" Votes="12" />
+          <RegionPartyResult Party="SenS" Votes="40" />
+          <RegionPartyResult Party="SBU" Votes="39" />
+          <RegionPartyResult Party="PVU" Votes="21" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="5" />
+          <RegionPartyResult Party="OPU" Votes="16" />
+          <RegionPartyResult Party="PvdD" Votes="50" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="116" Name="Koppeldijk 115" X="137903" Y="452110">
+      <Result BlankVotes="7" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="156" />
+          <RegionPartyResult Party="PvdA" Votes="64" />
+          <RegionPartyResult Party="D66" Votes="121" />
+          <RegionPartyResult Party="VVD" Votes="26" />
+          <RegionPartyResult Party="CDA" Votes="19" />
+          <RegionPartyResult Party="SP" Votes="122" />
+          <RegionPartyResult Party="CU" Votes="28" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="3" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="14" />
+          <RegionPartyResult Party="SBU" Votes="14" />
+          <RegionPartyResult Party="PVU" Votes="17" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="15" />
+          <RegionPartyResult Party="PvdD" Votes="36" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="118" Name="Hondsrug 477" X="137949" Y="452948">
+      <Result BlankVotes="2" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="200" />
+          <RegionPartyResult Party="PvdA" Votes="85" />
+          <RegionPartyResult Party="D66" Votes="213" />
+          <RegionPartyResult Party="VVD" Votes="36" />
+          <RegionPartyResult Party="CDA" Votes="39" />
+          <RegionPartyResult Party="SP" Votes="112" />
+          <RegionPartyResult Party="CU" Votes="43" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="4" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="59" />
+          <RegionPartyResult Party="SBU" Votes="20" />
+          <RegionPartyResult Party="PVU" Votes="8" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="16" />
+          <RegionPartyResult Party="PvdD" Votes="45" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="119" Name="Hondsrug 19" X="137795" Y="452905">
+      <Result BlankVotes="6" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="322" />
+          <RegionPartyResult Party="PvdA" Votes="122" />
+          <RegionPartyResult Party="D66" Votes="283" />
+          <RegionPartyResult Party="VVD" Votes="74" />
+          <RegionPartyResult Party="CDA" Votes="53" />
+          <RegionPartyResult Party="SP" Votes="205" />
+          <RegionPartyResult Party="CU" Votes="49" />
+          <RegionPartyResult Party="BIP" Votes="8" />
+          <RegionPartyResult Party="OU" Votes="9" />
+          <RegionPartyResult Party="OPAU" Votes="7" />
+          <RegionPartyResult Party="SenS" Votes="87" />
+          <RegionPartyResult Party="SBU" Votes="33" />
+          <RegionPartyResult Party="PVU" Votes="20" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="24" />
+          <RegionPartyResult Party="PvdD" Votes="41" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="121" Name="Beneluxlaan 924" X="135596" Y="453314">
+      <Result BlankVotes="2" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="43" />
+          <RegionPartyResult Party="PvdA" Votes="33" />
+          <RegionPartyResult Party="D66" Votes="85" />
+          <RegionPartyResult Party="VVD" Votes="49" />
+          <RegionPartyResult Party="CDA" Votes="47" />
+          <RegionPartyResult Party="SP" Votes="41" />
+          <RegionPartyResult Party="CU" Votes="26" />
+          <RegionPartyResult Party="BIP" Votes="5" />
+          <RegionPartyResult Party="OU" Votes="5" />
+          <RegionPartyResult Party="OPAU" Votes="8" />
+          <RegionPartyResult Party="SenS" Votes="16" />
+          <RegionPartyResult Party="SBU" Votes="12" />
+          <RegionPartyResult Party="PVU" Votes="12" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="22" />
+          <RegionPartyResult Party="PvdD" Votes="18" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="122" Name="Marco Pololaan 523" X="135335" Y="453050">
+      <Result BlankVotes="0" Invalid="7">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="43" />
+          <RegionPartyResult Party="PvdA" Votes="148" />
+          <RegionPartyResult Party="D66" Votes="83" />
+          <RegionPartyResult Party="VVD" Votes="14" />
+          <RegionPartyResult Party="CDA" Votes="27" />
+          <RegionPartyResult Party="SP" Votes="90" />
+          <RegionPartyResult Party="CU" Votes="25" />
+          <RegionPartyResult Party="BIP" Votes="6" />
+          <RegionPartyResult Party="OU" Votes="61" />
+          <RegionPartyResult Party="OPAU" Votes="2" />
+          <RegionPartyResult Party="SenS" Votes="8" />
+          <RegionPartyResult Party="SBU" Votes="21" />
+          <RegionPartyResult Party="PVU" Votes="7" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="5" />
+          <RegionPartyResult Party="PvdD" Votes="7" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="123" Name="Bontekoelaan 9" X="134908" Y="453245">
+      <Result BlankVotes="1" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="44" />
+          <RegionPartyResult Party="PvdA" Votes="117" />
+          <RegionPartyResult Party="D66" Votes="64" />
+          <RegionPartyResult Party="VVD" Votes="15" />
+          <RegionPartyResult Party="CDA" Votes="25" />
+          <RegionPartyResult Party="SP" Votes="66" />
+          <RegionPartyResult Party="CU" Votes="17" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="72" />
+          <RegionPartyResult Party="OPAU" Votes="2" />
+          <RegionPartyResult Party="SenS" Votes="2" />
+          <RegionPartyResult Party="SBU" Votes="12" />
+          <RegionPartyResult Party="PVU" Votes="5" />
+          <RegionPartyResult Party="ND" Votes="0" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="8" />
+          <RegionPartyResult Party="PvdD" Votes="13" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="125" Name="Marco Pololaan 71" X="134969" Y="453690">
+      <Result BlankVotes="2" Invalid="14">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="136" />
+          <RegionPartyResult Party="PvdA" Votes="151" />
+          <RegionPartyResult Party="D66" Votes="186" />
+          <RegionPartyResult Party="VVD" Votes="32" />
+          <RegionPartyResult Party="CDA" Votes="37" />
+          <RegionPartyResult Party="SP" Votes="129" />
+          <RegionPartyResult Party="CU" Votes="80" />
+          <RegionPartyResult Party="BIP" Votes="4" />
+          <RegionPartyResult Party="OU" Votes="59" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="39" />
+          <RegionPartyResult Party="SBU" Votes="14" />
+          <RegionPartyResult Party="PVU" Votes="12" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="7" />
+          <RegionPartyResult Party="PvdD" Votes="13" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="126" Name="Trumanlaan 60" X="134712" Y="454291">
+      <Result BlankVotes="4" Invalid="19">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="70" />
+          <RegionPartyResult Party="PvdA" Votes="181" />
+          <RegionPartyResult Party="D66" Votes="132" />
+          <RegionPartyResult Party="VVD" Votes="19" />
+          <RegionPartyResult Party="CDA" Votes="47" />
+          <RegionPartyResult Party="SP" Votes="87" />
+          <RegionPartyResult Party="CU" Votes="37" />
+          <RegionPartyResult Party="BIP" Votes="4" />
+          <RegionPartyResult Party="OU" Votes="71" />
+          <RegionPartyResult Party="OPAU" Votes="4" />
+          <RegionPartyResult Party="SenS" Votes="18" />
+          <RegionPartyResult Party="SBU" Votes="21" />
+          <RegionPartyResult Party="PVU" Votes="5" />
+          <RegionPartyResult Party="ND" Votes="7" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="3" />
+          <RegionPartyResult Party="PvdD" Votes="14" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="127" Name="Attleeplantsoen 39" X="134195" Y="454551">
+      <Result BlankVotes="4" Invalid="8">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="58" />
+          <RegionPartyResult Party="PvdA" Votes="159" />
+          <RegionPartyResult Party="D66" Votes="57" />
+          <RegionPartyResult Party="VVD" Votes="10" />
+          <RegionPartyResult Party="CDA" Votes="26" />
+          <RegionPartyResult Party="SP" Votes="90" />
+          <RegionPartyResult Party="CU" Votes="23" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="77" />
+          <RegionPartyResult Party="OPAU" Votes="0" />
+          <RegionPartyResult Party="SenS" Votes="11" />
+          <RegionPartyResult Party="SBU" Votes="8" />
+          <RegionPartyResult Party="PVU" Votes="3" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="1" />
+          <RegionPartyResult Party="PvdD" Votes="6" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="129" Name="Van Bijnkershoeklaan 250" X="135192" Y="454528">
+      <Result BlankVotes="4" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="84" />
+          <RegionPartyResult Party="PvdA" Votes="86" />
+          <RegionPartyResult Party="D66" Votes="169" />
+          <RegionPartyResult Party="VVD" Votes="76" />
+          <RegionPartyResult Party="CDA" Votes="85" />
+          <RegionPartyResult Party="SP" Votes="88" />
+          <RegionPartyResult Party="CU" Votes="29" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="9" />
+          <RegionPartyResult Party="OPAU" Votes="12" />
+          <RegionPartyResult Party="SenS" Votes="40" />
+          <RegionPartyResult Party="SBU" Votes="18" />
+          <RegionPartyResult Party="PVU" Votes="15" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="29" />
+          <RegionPartyResult Party="PvdD" Votes="21" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="130" Name="Van Vollenhovenlaan 451" X="135083" Y="454169">
+      <Result BlankVotes="3" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="83" />
+          <RegionPartyResult Party="PvdA" Votes="75" />
+          <RegionPartyResult Party="D66" Votes="166" />
+          <RegionPartyResult Party="VVD" Votes="77" />
+          <RegionPartyResult Party="CDA" Votes="43" />
+          <RegionPartyResult Party="SP" Votes="80" />
+          <RegionPartyResult Party="CU" Votes="50" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="15" />
+          <RegionPartyResult Party="OPAU" Votes="4" />
+          <RegionPartyResult Party="SenS" Votes="39" />
+          <RegionPartyResult Party="SBU" Votes="29" />
+          <RegionPartyResult Party="PVU" Votes="11" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="15" />
+          <RegionPartyResult Party="PvdD" Votes="22" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="131" Name="Hof van Transwijk 4" X="135376" Y="454044">
+      <Result BlankVotes="5" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="53" />
+          <RegionPartyResult Party="PvdA" Votes="68" />
+          <RegionPartyResult Party="D66" Votes="98" />
+          <RegionPartyResult Party="VVD" Votes="39" />
+          <RegionPartyResult Party="CDA" Votes="72" />
+          <RegionPartyResult Party="SP" Votes="76" />
+          <RegionPartyResult Party="CU" Votes="19" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="40" />
+          <RegionPartyResult Party="OPAU" Votes="22" />
+          <RegionPartyResult Party="SenS" Votes="8" />
+          <RegionPartyResult Party="SBU" Votes="29" />
+          <RegionPartyResult Party="PVU" Votes="20" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="55" />
+          <RegionPartyResult Party="PvdD" Votes="12" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="132" Name="Lingestraat 2 B" X="136486" Y="453758">
+      <Result BlankVotes="4" Invalid="5">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="227" />
+          <RegionPartyResult Party="PvdA" Votes="144" />
+          <RegionPartyResult Party="D66" Votes="283" />
+          <RegionPartyResult Party="VVD" Votes="96" />
+          <RegionPartyResult Party="CDA" Votes="66" />
+          <RegionPartyResult Party="SP" Votes="169" />
+          <RegionPartyResult Party="CU" Votes="35" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="14" />
+          <RegionPartyResult Party="OPAU" Votes="10" />
+          <RegionPartyResult Party="SenS" Votes="30" />
+          <RegionPartyResult Party="SBU" Votes="49" />
+          <RegionPartyResult Party="PVU" Votes="27" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="24" />
+          <RegionPartyResult Party="PvdD" Votes="22" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="134" Name="Maasplein 1" X="136294" Y="453821">
+      <Result BlankVotes="4" Invalid="8">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="246" />
+          <RegionPartyResult Party="PvdA" Votes="187" />
+          <RegionPartyResult Party="D66" Votes="345" />
+          <RegionPartyResult Party="VVD" Votes="104" />
+          <RegionPartyResult Party="CDA" Votes="76" />
+          <RegionPartyResult Party="SP" Votes="190" />
+          <RegionPartyResult Party="CU" Votes="37" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="54" />
+          <RegionPartyResult Party="OPAU" Votes="19" />
+          <RegionPartyResult Party="SenS" Votes="52" />
+          <RegionPartyResult Party="SBU" Votes="35" />
+          <RegionPartyResult Party="PVU" Votes="41" />
+          <RegionPartyResult Party="ND" Votes="7" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="23" />
+          <RegionPartyResult Party="PvdD" Votes="32" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="136" Name="Vondellaan 174" X="136623" Y="454557">
+      <Result BlankVotes="8" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="366" />
+          <RegionPartyResult Party="PvdA" Votes="187" />
+          <RegionPartyResult Party="D66" Votes="603" />
+          <RegionPartyResult Party="VVD" Votes="240" />
+          <RegionPartyResult Party="CDA" Votes="95" />
+          <RegionPartyResult Party="SP" Votes="126" />
+          <RegionPartyResult Party="CU" Votes="46" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="15" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="84" />
+          <RegionPartyResult Party="SBU" Votes="37" />
+          <RegionPartyResult Party="PVU" Votes="16" />
+          <RegionPartyResult Party="ND" Votes="5" />
+          <RegionPartyResult Party="LP" Votes="6" />
+          <RegionPartyResult Party="OPU" Votes="10" />
+          <RegionPartyResult Party="PvdD" Votes="39" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="137" Name="Amaliadwarsstraat 2" X="136483" Y="454268">
+      <Result BlankVotes="6" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="168" />
+          <RegionPartyResult Party="PvdA" Votes="92" />
+          <RegionPartyResult Party="D66" Votes="257" />
+          <RegionPartyResult Party="VVD" Votes="91" />
+          <RegionPartyResult Party="CDA" Votes="37" />
+          <RegionPartyResult Party="SP" Votes="70" />
+          <RegionPartyResult Party="CU" Votes="32" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="5" />
+          <RegionPartyResult Party="OPAU" Votes="0" />
+          <RegionPartyResult Party="SenS" Votes="15" />
+          <RegionPartyResult Party="SBU" Votes="12" />
+          <RegionPartyResult Party="PVU" Votes="15" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="7" />
+          <RegionPartyResult Party="PvdD" Votes="22" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="139" Name="Akkrumerraklaan 111" X="133025" Y="455215">
+      <Result BlankVotes="2" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="147" />
+          <RegionPartyResult Party="PvdA" Votes="101" />
+          <RegionPartyResult Party="D66" Votes="339" />
+          <RegionPartyResult Party="VVD" Votes="168" />
+          <RegionPartyResult Party="CDA" Votes="77" />
+          <RegionPartyResult Party="SP" Votes="50" />
+          <RegionPartyResult Party="CU" Votes="31" />
+          <RegionPartyResult Party="BIP" Votes="4" />
+          <RegionPartyResult Party="OU" Votes="15" />
+          <RegionPartyResult Party="OPAU" Votes="9" />
+          <RegionPartyResult Party="SenS" Votes="16" />
+          <RegionPartyResult Party="SBU" Votes="78" />
+          <RegionPartyResult Party="PVU" Votes="12" />
+          <RegionPartyResult Party="ND" Votes="10" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="11" />
+          <RegionPartyResult Party="PvdD" Votes="27" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="140" Name="Eerste Oosterparklaan 88" X="132196" Y="455628">
+      <Result BlankVotes="10" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="155" />
+          <RegionPartyResult Party="PvdA" Votes="156" />
+          <RegionPartyResult Party="D66" Votes="378" />
+          <RegionPartyResult Party="VVD" Votes="185" />
+          <RegionPartyResult Party="CDA" Votes="104" />
+          <RegionPartyResult Party="SP" Votes="144" />
+          <RegionPartyResult Party="CU" Votes="42" />
+          <RegionPartyResult Party="BIP" Votes="16" />
+          <RegionPartyResult Party="OU" Votes="36" />
+          <RegionPartyResult Party="OPAU" Votes="12" />
+          <RegionPartyResult Party="SenS" Votes="14" />
+          <RegionPartyResult Party="SBU" Votes="79" />
+          <RegionPartyResult Party="PVU" Votes="35" />
+          <RegionPartyResult Party="ND" Votes="7" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="14" />
+          <RegionPartyResult Party="PvdD" Votes="39" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="141" Name="Atalantahof 11" X="131849" Y="455666">
+      <Result BlankVotes="2" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="139" />
+          <RegionPartyResult Party="PvdA" Votes="85" />
+          <RegionPartyResult Party="D66" Votes="206" />
+          <RegionPartyResult Party="VVD" Votes="102" />
+          <RegionPartyResult Party="CDA" Votes="68" />
+          <RegionPartyResult Party="SP" Votes="86" />
+          <RegionPartyResult Party="CU" Votes="37" />
+          <RegionPartyResult Party="BIP" Votes="9" />
+          <RegionPartyResult Party="OU" Votes="6" />
+          <RegionPartyResult Party="OPAU" Votes="13" />
+          <RegionPartyResult Party="SenS" Votes="9" />
+          <RegionPartyResult Party="SBU" Votes="53" />
+          <RegionPartyResult Party="PVU" Votes="10" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="12" />
+          <RegionPartyResult Party="PvdD" Votes="19" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="142" Name="Kruidenlaan 1" X="132853" Y="456003">
+      <Result BlankVotes="4" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="52" />
+          <RegionPartyResult Party="PvdA" Votes="98" />
+          <RegionPartyResult Party="D66" Votes="150" />
+          <RegionPartyResult Party="VVD" Votes="67" />
+          <RegionPartyResult Party="CDA" Votes="45" />
+          <RegionPartyResult Party="SP" Votes="66" />
+          <RegionPartyResult Party="CU" Votes="37" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="27" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="8" />
+          <RegionPartyResult Party="SBU" Votes="38" />
+          <RegionPartyResult Party="PVU" Votes="10" />
+          <RegionPartyResult Party="ND" Votes="0" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="9" />
+          <RegionPartyResult Party="PvdD" Votes="19" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="143" Name="Maartvlinder 11" X="132665" Y="456044">
+      <Result BlankVotes="4" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="97" />
+          <RegionPartyResult Party="PvdA" Votes="92" />
+          <RegionPartyResult Party="D66" Votes="274" />
+          <RegionPartyResult Party="VVD" Votes="203" />
+          <RegionPartyResult Party="CDA" Votes="68" />
+          <RegionPartyResult Party="SP" Votes="60" />
+          <RegionPartyResult Party="CU" Votes="42" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="10" />
+          <RegionPartyResult Party="OPAU" Votes="10" />
+          <RegionPartyResult Party="SenS" Votes="14" />
+          <RegionPartyResult Party="SBU" Votes="60" />
+          <RegionPartyResult Party="PVU" Votes="9" />
+          <RegionPartyResult Party="ND" Votes="7" />
+          <RegionPartyResult Party="LP" Votes="7" />
+          <RegionPartyResult Party="OPU" Votes="5" />
+          <RegionPartyResult Party="PvdD" Votes="21" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="144" Name="Dorpsplein 1" X="129239" Y="457734">
+      <Result BlankVotes="1" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="82" />
+          <RegionPartyResult Party="PvdA" Votes="73" />
+          <RegionPartyResult Party="D66" Votes="205" />
+          <RegionPartyResult Party="VVD" Votes="204" />
+          <RegionPartyResult Party="CDA" Votes="166" />
+          <RegionPartyResult Party="SP" Votes="81" />
+          <RegionPartyResult Party="CU" Votes="46" />
+          <RegionPartyResult Party="BIP" Votes="6" />
+          <RegionPartyResult Party="OU" Votes="7" />
+          <RegionPartyResult Party="OPAU" Votes="25" />
+          <RegionPartyResult Party="SenS" Votes="11" />
+          <RegionPartyResult Party="SBU" Votes="178" />
+          <RegionPartyResult Party="PVU" Votes="26" />
+          <RegionPartyResult Party="ND" Votes="8" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="26" />
+          <RegionPartyResult Party="PvdD" Votes="32" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="145" Name="Brinkstraat 4" X="128370" Y="459185">
+      <Result BlankVotes="1" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="13" />
+          <RegionPartyResult Party="PvdA" Votes="12" />
+          <RegionPartyResult Party="D66" Votes="42" />
+          <RegionPartyResult Party="VVD" Votes="47" />
+          <RegionPartyResult Party="CDA" Votes="46" />
+          <RegionPartyResult Party="SP" Votes="12" />
+          <RegionPartyResult Party="CU" Votes="5" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="0" />
+          <RegionPartyResult Party="OPAU" Votes="2" />
+          <RegionPartyResult Party="SenS" Votes="4" />
+          <RegionPartyResult Party="SBU" Votes="30" />
+          <RegionPartyResult Party="PVU" Votes="1" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="2" />
+          <RegionPartyResult Party="PvdD" Votes="4" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="146" Name="Albert Schweitzerlaan 10 A" X="129406" Y="457697">
+      <Result BlankVotes="1" Invalid="4">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="43" />
+          <RegionPartyResult Party="PvdA" Votes="57" />
+          <RegionPartyResult Party="D66" Votes="151" />
+          <RegionPartyResult Party="VVD" Votes="148" />
+          <RegionPartyResult Party="CDA" Votes="115" />
+          <RegionPartyResult Party="SP" Votes="54" />
+          <RegionPartyResult Party="CU" Votes="27" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="3" />
+          <RegionPartyResult Party="OPAU" Votes="11" />
+          <RegionPartyResult Party="SenS" Votes="8" />
+          <RegionPartyResult Party="SBU" Votes="124" />
+          <RegionPartyResult Party="PVU" Votes="20" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="4" />
+          <RegionPartyResult Party="PvdD" Votes="19" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="147" Name="Poortland 59" X="129694" Y="457747">
+      <Result BlankVotes="0" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="61" />
+          <RegionPartyResult Party="PvdA" Votes="72" />
+          <RegionPartyResult Party="D66" Votes="196" />
+          <RegionPartyResult Party="VVD" Votes="139" />
+          <RegionPartyResult Party="CDA" Votes="116" />
+          <RegionPartyResult Party="SP" Votes="88" />
+          <RegionPartyResult Party="CU" Votes="27" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="10" />
+          <RegionPartyResult Party="OPAU" Votes="14" />
+          <RegionPartyResult Party="SenS" Votes="6" />
+          <RegionPartyResult Party="SBU" Votes="107" />
+          <RegionPartyResult Party="PVU" Votes="18" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="14" />
+          <RegionPartyResult Party="PvdD" Votes="28" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="148" Name="Musicallaan 100" X="131420" Y="457462">
+      <Result BlankVotes="3" Invalid="5">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="122" />
+          <RegionPartyResult Party="PvdA" Votes="194" />
+          <RegionPartyResult Party="D66" Votes="538" />
+          <RegionPartyResult Party="VVD" Votes="472" />
+          <RegionPartyResult Party="CDA" Votes="98" />
+          <RegionPartyResult Party="SP" Votes="109" />
+          <RegionPartyResult Party="CU" Votes="65" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="20" />
+          <RegionPartyResult Party="OPAU" Votes="17" />
+          <RegionPartyResult Party="SenS" Votes="22" />
+          <RegionPartyResult Party="SBU" Votes="93" />
+          <RegionPartyResult Party="PVU" Votes="28" />
+          <RegionPartyResult Party="ND" Votes="8" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="15" />
+          <RegionPartyResult Party="PvdD" Votes="42" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="149" Name="Pastoor Ohllaan 34 A" X="129433" Y="457371">
+      <Result BlankVotes="3" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="49" />
+          <RegionPartyResult Party="PvdA" Votes="66" />
+          <RegionPartyResult Party="D66" Votes="123" />
+          <RegionPartyResult Party="VVD" Votes="134" />
+          <RegionPartyResult Party="CDA" Votes="138" />
+          <RegionPartyResult Party="SP" Votes="87" />
+          <RegionPartyResult Party="CU" Votes="48" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="7" />
+          <RegionPartyResult Party="OPAU" Votes="9" />
+          <RegionPartyResult Party="SenS" Votes="8" />
+          <RegionPartyResult Party="SBU" Votes="128" />
+          <RegionPartyResult Party="PVU" Votes="12" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="31" />
+          <RegionPartyResult Party="PvdD" Votes="29" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="150" Name="Europaweg 48" X="129984" Y="455623">
+      <Result BlankVotes="0" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="35" />
+          <RegionPartyResult Party="PvdA" Votes="47" />
+          <RegionPartyResult Party="D66" Votes="171" />
+          <RegionPartyResult Party="VVD" Votes="211" />
+          <RegionPartyResult Party="CDA" Votes="124" />
+          <RegionPartyResult Party="SP" Votes="50" />
+          <RegionPartyResult Party="CU" Votes="32" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="14" />
+          <RegionPartyResult Party="OPAU" Votes="7" />
+          <RegionPartyResult Party="SenS" Votes="11" />
+          <RegionPartyResult Party="SBU" Votes="125" />
+          <RegionPartyResult Party="PVU" Votes="33" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="15" />
+          <RegionPartyResult Party="PvdD" Votes="24" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="151" Name="Zandweg 148" X="130786" Y="455098">
+      <Result BlankVotes="0" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="56" />
+          <RegionPartyResult Party="PvdA" Votes="57" />
+          <RegionPartyResult Party="D66" Votes="134" />
+          <RegionPartyResult Party="VVD" Votes="117" />
+          <RegionPartyResult Party="CDA" Votes="120" />
+          <RegionPartyResult Party="SP" Votes="38" />
+          <RegionPartyResult Party="CU" Votes="38" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="3" />
+          <RegionPartyResult Party="OPAU" Votes="8" />
+          <RegionPartyResult Party="SenS" Votes="9" />
+          <RegionPartyResult Party="SBU" Votes="150" />
+          <RegionPartyResult Party="PVU" Votes="29" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="13" />
+          <RegionPartyResult Party="PvdD" Votes="16" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="152" Name="Oranjelaan 10" X="131099" Y="454716">
+      <Result BlankVotes="2" Invalid="5">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="74" />
+          <RegionPartyResult Party="PvdA" Votes="80" />
+          <RegionPartyResult Party="D66" Votes="305" />
+          <RegionPartyResult Party="VVD" Votes="261" />
+          <RegionPartyResult Party="CDA" Votes="167" />
+          <RegionPartyResult Party="SP" Votes="59" />
+          <RegionPartyResult Party="CU" Votes="57" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="4" />
+          <RegionPartyResult Party="OPAU" Votes="22" />
+          <RegionPartyResult Party="SenS" Votes="15" />
+          <RegionPartyResult Party="SBU" Votes="197" />
+          <RegionPartyResult Party="PVU" Votes="23" />
+          <RegionPartyResult Party="ND" Votes="7" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="21" />
+          <RegionPartyResult Party="PvdD" Votes="17" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="153" Name="Mereveldlaan 3" X="131082" Y="454782">
+      <Result BlankVotes="1" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="20" />
+          <RegionPartyResult Party="PvdA" Votes="53" />
+          <RegionPartyResult Party="D66" Votes="99" />
+          <RegionPartyResult Party="VVD" Votes="107" />
+          <RegionPartyResult Party="CDA" Votes="98" />
+          <RegionPartyResult Party="SP" Votes="38" />
+          <RegionPartyResult Party="CU" Votes="33" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="7" />
+          <RegionPartyResult Party="OPAU" Votes="12" />
+          <RegionPartyResult Party="SenS" Votes="10" />
+          <RegionPartyResult Party="SBU" Votes="128" />
+          <RegionPartyResult Party="PVU" Votes="12" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="11" />
+          <RegionPartyResult Party="PvdD" Votes="16" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="154" Name="Touwslagerslaan 1" X="130600" Y="454958">
+      <Result BlankVotes="1" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="41" />
+          <RegionPartyResult Party="PvdA" Votes="57" />
+          <RegionPartyResult Party="D66" Votes="126" />
+          <RegionPartyResult Party="VVD" Votes="102" />
+          <RegionPartyResult Party="CDA" Votes="137" />
+          <RegionPartyResult Party="SP" Votes="62" />
+          <RegionPartyResult Party="CU" Votes="30" />
+          <RegionPartyResult Party="BIP" Votes="4" />
+          <RegionPartyResult Party="OU" Votes="3" />
+          <RegionPartyResult Party="OPAU" Votes="12" />
+          <RegionPartyResult Party="SenS" Votes="13" />
+          <RegionPartyResult Party="SBU" Votes="144" />
+          <RegionPartyResult Party="PVU" Votes="22" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="0" />
+          <RegionPartyResult Party="OPU" Votes="15" />
+          <RegionPartyResult Party="PvdD" Votes="17" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="155" Name="Bovenpolder 80" X="129340" Y="455275">
+      <Result BlankVotes="1" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="31" />
+          <RegionPartyResult Party="PvdA" Votes="71" />
+          <RegionPartyResult Party="D66" Votes="138" />
+          <RegionPartyResult Party="VVD" Votes="201" />
+          <RegionPartyResult Party="CDA" Votes="104" />
+          <RegionPartyResult Party="SP" Votes="56" />
+          <RegionPartyResult Party="CU" Votes="28" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="9" />
+          <RegionPartyResult Party="OPAU" Votes="12" />
+          <RegionPartyResult Party="SenS" Votes="6" />
+          <RegionPartyResult Party="SBU" Votes="106" />
+          <RegionPartyResult Party="PVU" Votes="28" />
+          <RegionPartyResult Party="ND" Votes="5" />
+          <RegionPartyResult Party="LP" Votes="7" />
+          <RegionPartyResult Party="OPU" Votes="14" />
+          <RegionPartyResult Party="PvdD" Votes="17" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="156" Name="St.-Pietersberg 12 C" X="129632" Y="455022">
+      <Result BlankVotes="3" Invalid="7">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="67" />
+          <RegionPartyResult Party="PvdA" Votes="105" />
+          <RegionPartyResult Party="D66" Votes="233" />
+          <RegionPartyResult Party="VVD" Votes="250" />
+          <RegionPartyResult Party="CDA" Votes="120" />
+          <RegionPartyResult Party="SP" Votes="101" />
+          <RegionPartyResult Party="CU" Votes="40" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="20" />
+          <RegionPartyResult Party="OPAU" Votes="13" />
+          <RegionPartyResult Party="SenS" Votes="10" />
+          <RegionPartyResult Party="SBU" Votes="136" />
+          <RegionPartyResult Party="PVU" Votes="32" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="14" />
+          <RegionPartyResult Party="PvdD" Votes="17" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="158" Name="Ten Veldestraat 94" X="130691" Y="454497">
+      <Result BlankVotes="1" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="41" />
+          <RegionPartyResult Party="PvdA" Votes="44" />
+          <RegionPartyResult Party="D66" Votes="117" />
+          <RegionPartyResult Party="VVD" Votes="126" />
+          <RegionPartyResult Party="CDA" Votes="95" />
+          <RegionPartyResult Party="SP" Votes="52" />
+          <RegionPartyResult Party="CU" Votes="30" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="8" />
+          <RegionPartyResult Party="OPAU" Votes="14" />
+          <RegionPartyResult Party="SenS" Votes="18" />
+          <RegionPartyResult Party="SBU" Votes="139" />
+          <RegionPartyResult Party="PVU" Votes="27" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="2" />
+          <RegionPartyResult Party="OPU" Votes="7" />
+          <RegionPartyResult Party="PvdD" Votes="11" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="159" Name="Nedereindseplas 1" X="132386" Y="451959">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="3" />
+          <RegionPartyResult Party="PvdA" Votes="3" />
+          <RegionPartyResult Party="D66" Votes="17" />
+          <RegionPartyResult Party="VVD" Votes="31" />
+          <RegionPartyResult Party="CDA" Votes="38" />
+          <RegionPartyResult Party="SP" Votes="1" />
+          <RegionPartyResult Party="CU" Votes="1" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="1" />
+          <RegionPartyResult Party="OPAU" Votes="0" />
+          <RegionPartyResult Party="SenS" Votes="2" />
+          <RegionPartyResult Party="SBU" Votes="9" />
+          <RegionPartyResult Party="PVU" Votes="1" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="4" />
+          <RegionPartyResult Party="PvdD" Votes="2" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="160" Name="Niels Bohrweg 121" X="131819" Y="459285">
+      <Result BlankVotes="2" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="8" />
+          <RegionPartyResult Party="PvdA" Votes="12" />
+          <RegionPartyResult Party="D66" Votes="16" />
+          <RegionPartyResult Party="VVD" Votes="25" />
+          <RegionPartyResult Party="CDA" Votes="11" />
+          <RegionPartyResult Party="SP" Votes="40" />
+          <RegionPartyResult Party="CU" Votes="4" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="2" />
+          <RegionPartyResult Party="OPAU" Votes="1" />
+          <RegionPartyResult Party="SenS" Votes="2" />
+          <RegionPartyResult Party="SBU" Votes="9" />
+          <RegionPartyResult Party="PVU" Votes="6" />
+          <RegionPartyResult Party="ND" Votes="0" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="1" />
+          <RegionPartyResult Party="PvdD" Votes="7" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="161" Name="Kweektuinlaan 11" X="128995" Y="455864">
+      <Result BlankVotes="1" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="48" />
+          <RegionPartyResult Party="PvdA" Votes="53" />
+          <RegionPartyResult Party="D66" Votes="214" />
+          <RegionPartyResult Party="VVD" Votes="175" />
+          <RegionPartyResult Party="CDA" Votes="92" />
+          <RegionPartyResult Party="SP" Votes="44" />
+          <RegionPartyResult Party="CU" Votes="39" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="14" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="2" />
+          <RegionPartyResult Party="SBU" Votes="55" />
+          <RegionPartyResult Party="PVU" Votes="28" />
+          <RegionPartyResult Party="ND" Votes="11" />
+          <RegionPartyResult Party="LP" Votes="6" />
+          <RegionPartyResult Party="OPU" Votes="9" />
+          <RegionPartyResult Party="PvdD" Votes="23" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="163" Name="Keerderberg 21" X="129669" Y="454956">
+      <Result BlankVotes="2" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="43" />
+          <RegionPartyResult Party="PvdA" Votes="66" />
+          <RegionPartyResult Party="D66" Votes="166" />
+          <RegionPartyResult Party="VVD" Votes="174" />
+          <RegionPartyResult Party="CDA" Votes="99" />
+          <RegionPartyResult Party="SP" Votes="54" />
+          <RegionPartyResult Party="CU" Votes="29" />
+          <RegionPartyResult Party="BIP" Votes="7" />
+          <RegionPartyResult Party="OU" Votes="8" />
+          <RegionPartyResult Party="OPAU" Votes="11" />
+          <RegionPartyResult Party="SenS" Votes="5" />
+          <RegionPartyResult Party="SBU" Votes="82" />
+          <RegionPartyResult Party="PVU" Votes="30" />
+          <RegionPartyResult Party="ND" Votes="5" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="9" />
+          <RegionPartyResult Party="PvdD" Votes="14" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="164" Name="Teunisbloemlaan 50" X="128621" Y="456503">
+      <Result BlankVotes="4" Invalid="4">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="102" />
+          <RegionPartyResult Party="PvdA" Votes="130" />
+          <RegionPartyResult Party="D66" Votes="505" />
+          <RegionPartyResult Party="VVD" Votes="360" />
+          <RegionPartyResult Party="CDA" Votes="151" />
+          <RegionPartyResult Party="SP" Votes="80" />
+          <RegionPartyResult Party="CU" Votes="59" />
+          <RegionPartyResult Party="BIP" Votes="8" />
+          <RegionPartyResult Party="OU" Votes="12" />
+          <RegionPartyResult Party="OPAU" Votes="14" />
+          <RegionPartyResult Party="SenS" Votes="11" />
+          <RegionPartyResult Party="SBU" Votes="123" />
+          <RegionPartyResult Party="PVU" Votes="41" />
+          <RegionPartyResult Party="ND" Votes="5" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="27" />
+          <RegionPartyResult Party="PvdD" Votes="48" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="166" Name="Operettelaan 629" X="131244" Y="457181">
+      <Result BlankVotes="2" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="47" />
+          <RegionPartyResult Party="PvdA" Votes="93" />
+          <RegionPartyResult Party="D66" Votes="211" />
+          <RegionPartyResult Party="VVD" Votes="160" />
+          <RegionPartyResult Party="CDA" Votes="74" />
+          <RegionPartyResult Party="SP" Votes="89" />
+          <RegionPartyResult Party="CU" Votes="17" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="15" />
+          <RegionPartyResult Party="OPAU" Votes="5" />
+          <RegionPartyResult Party="SenS" Votes="4" />
+          <RegionPartyResult Party="SBU" Votes="49" />
+          <RegionPartyResult Party="PVU" Votes="11" />
+          <RegionPartyResult Party="ND" Votes="0" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="17" />
+          <RegionPartyResult Party="PvdD" Votes="11" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="167" Name="Pauwoogvlinder 12" X="131689" Y="456385">
+      <Result BlankVotes="2" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="91" />
+          <RegionPartyResult Party="PvdA" Votes="57" />
+          <RegionPartyResult Party="D66" Votes="245" />
+          <RegionPartyResult Party="VVD" Votes="157" />
+          <RegionPartyResult Party="CDA" Votes="62" />
+          <RegionPartyResult Party="SP" Votes="34" />
+          <RegionPartyResult Party="CU" Votes="26" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="8" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="4" />
+          <RegionPartyResult Party="SBU" Votes="33" />
+          <RegionPartyResult Party="PVU" Votes="12" />
+          <RegionPartyResult Party="ND" Votes="6" />
+          <RegionPartyResult Party="LP" Votes="9" />
+          <RegionPartyResult Party="OPU" Votes="10" />
+          <RegionPartyResult Party="PvdD" Votes="20" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="168" Name="Kardinskystraat 40" X="130870" Y="456611">
+      <Result BlankVotes="1" Invalid="2">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="28" />
+          <RegionPartyResult Party="PvdA" Votes="61" />
+          <RegionPartyResult Party="D66" Votes="135" />
+          <RegionPartyResult Party="VVD" Votes="122" />
+          <RegionPartyResult Party="CDA" Votes="49" />
+          <RegionPartyResult Party="SP" Votes="40" />
+          <RegionPartyResult Party="CU" Votes="32" />
+          <RegionPartyResult Party="BIP" Votes="3" />
+          <RegionPartyResult Party="OU" Votes="4" />
+          <RegionPartyResult Party="OPAU" Votes="3" />
+          <RegionPartyResult Party="SenS" Votes="11" />
+          <RegionPartyResult Party="SBU" Votes="44" />
+          <RegionPartyResult Party="PVU" Votes="22" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="5" />
+          <RegionPartyResult Party="OPU" Votes="9" />
+          <RegionPartyResult Party="PvdD" Votes="14" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="169" Name="Burchtpoort 16" X="129276" Y="456260">
+      <Result BlankVotes="2" Invalid="7">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="102" />
+          <RegionPartyResult Party="PvdA" Votes="116" />
+          <RegionPartyResult Party="D66" Votes="369" />
+          <RegionPartyResult Party="VVD" Votes="291" />
+          <RegionPartyResult Party="CDA" Votes="127" />
+          <RegionPartyResult Party="SP" Votes="119" />
+          <RegionPartyResult Party="CU" Votes="43" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="7" />
+          <RegionPartyResult Party="OPAU" Votes="19" />
+          <RegionPartyResult Party="SenS" Votes="17" />
+          <RegionPartyResult Party="SBU" Votes="131" />
+          <RegionPartyResult Party="PVU" Votes="19" />
+          <RegionPartyResult Party="ND" Votes="9" />
+          <RegionPartyResult Party="LP" Votes="5" />
+          <RegionPartyResult Party="OPU" Votes="18" />
+          <RegionPartyResult Party="PvdD" Votes="32" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="171" Name="Heidelberglaan 2" X="140291" Y="455222">
+      <Result BlankVotes="17" Invalid="11">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="424" />
+          <RegionPartyResult Party="PvdA" Votes="109" />
+          <RegionPartyResult Party="D66" Votes="600" />
+          <RegionPartyResult Party="VVD" Votes="96" />
+          <RegionPartyResult Party="CDA" Votes="66" />
+          <RegionPartyResult Party="SP" Votes="78" />
+          <RegionPartyResult Party="CU" Votes="73" />
+          <RegionPartyResult Party="BIP" Votes="5" />
+          <RegionPartyResult Party="OU" Votes="0" />
+          <RegionPartyResult Party="OPAU" Votes="1" />
+          <RegionPartyResult Party="SenS" Votes="329" />
+          <RegionPartyResult Party="SBU" Votes="14" />
+          <RegionPartyResult Party="PVU" Votes="3" />
+          <RegionPartyResult Party="ND" Votes="4" />
+          <RegionPartyResult Party="LP" Votes="4" />
+          <RegionPartyResult Party="OPU" Votes="2" />
+          <RegionPartyResult Party="PvdD" Votes="44" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="172" Name="Europaplein 360" X="135862" Y="453255">
+      <Result BlankVotes="5" Invalid="1">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="144" />
+          <RegionPartyResult Party="PvdA" Votes="47" />
+          <RegionPartyResult Party="D66" Votes="236" />
+          <RegionPartyResult Party="VVD" Votes="55" />
+          <RegionPartyResult Party="CDA" Votes="14" />
+          <RegionPartyResult Party="SP" Votes="38" />
+          <RegionPartyResult Party="CU" Votes="21" />
+          <RegionPartyResult Party="BIP" Votes="2" />
+          <RegionPartyResult Party="OU" Votes="3" />
+          <RegionPartyResult Party="OPAU" Votes="2" />
+          <RegionPartyResult Party="SenS" Votes="76" />
+          <RegionPartyResult Party="SBU" Votes="11" />
+          <RegionPartyResult Party="PVU" Votes="2" />
+          <RegionPartyResult Party="ND" Votes="2" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="1" />
+          <RegionPartyResult Party="PvdD" Votes="24" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="179" Name="Parkzichtlaan 203" X="130918" Y="456193">
+      <Result BlankVotes="0" Invalid="3">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="59" />
+          <RegionPartyResult Party="PvdA" Votes="25" />
+          <RegionPartyResult Party="D66" Votes="178" />
+          <RegionPartyResult Party="VVD" Votes="136" />
+          <RegionPartyResult Party="CDA" Votes="47" />
+          <RegionPartyResult Party="SP" Votes="26" />
+          <RegionPartyResult Party="CU" Votes="17" />
+          <RegionPartyResult Party="BIP" Votes="0" />
+          <RegionPartyResult Party="OU" Votes="7" />
+          <RegionPartyResult Party="OPAU" Votes="9" />
+          <RegionPartyResult Party="SenS" Votes="6" />
+          <RegionPartyResult Party="SBU" Votes="63" />
+          <RegionPartyResult Party="PVU" Votes="12" />
+          <RegionPartyResult Party="ND" Votes="3" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="12" />
+          <RegionPartyResult Party="PvdD" Votes="7" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="181" Name="Radboudkwartier 23" X="136166" Y="455871">
+      <Result BlankVotes="3" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="119" />
+          <RegionPartyResult Party="PvdA" Votes="33" />
+          <RegionPartyResult Party="D66" Votes="181" />
+          <RegionPartyResult Party="VVD" Votes="59" />
+          <RegionPartyResult Party="CDA" Votes="22" />
+          <RegionPartyResult Party="SP" Votes="55" />
+          <RegionPartyResult Party="CU" Votes="37" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="2" />
+          <RegionPartyResult Party="OPAU" Votes="1" />
+          <RegionPartyResult Party="SenS" Votes="51" />
+          <RegionPartyResult Party="SBU" Votes="7" />
+          <RegionPartyResult Party="PVU" Votes="10" />
+          <RegionPartyResult Party="ND" Votes="1" />
+          <RegionPartyResult Party="LP" Votes="1" />
+          <RegionPartyResult Party="OPU" Votes="5" />
+          <RegionPartyResult Party="PvdD" Votes="26" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="182" Name="Jaarbeursplein 6a" X="135784" Y="455539">
+      <Result BlankVotes="2" Invalid="7">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="207" />
+          <RegionPartyResult Party="PvdA" Votes="90" />
+          <RegionPartyResult Party="D66" Votes="458" />
+          <RegionPartyResult Party="VVD" Votes="138" />
+          <RegionPartyResult Party="CDA" Votes="62" />
+          <RegionPartyResult Party="SP" Votes="69" />
+          <RegionPartyResult Party="CU" Votes="40" />
+          <RegionPartyResult Party="BIP" Votes="1" />
+          <RegionPartyResult Party="OU" Votes="4" />
+          <RegionPartyResult Party="OPAU" Votes="2" />
+          <RegionPartyResult Party="SenS" Votes="39" />
+          <RegionPartyResult Party="SBU" Votes="35" />
+          <RegionPartyResult Party="PVU" Votes="7" />
+          <RegionPartyResult Party="ND" Votes="5" />
+          <RegionPartyResult Party="LP" Votes="3" />
+          <RegionPartyResult Party="OPU" Votes="11" />
+          <RegionPartyResult Party="PvdD" Votes="21" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="183" Name="Centraal Station" X="135886" Y="455806">
+      <Result BlankVotes="14" Invalid="4">
+        <Parties>
+          <RegionPartyResult Party="GL" Votes="567" />
+          <RegionPartyResult Party="PvdA" Votes="185" />
+          <RegionPartyResult Party="D66" Votes="851" />
+          <RegionPartyResult Party="VVD" Votes="223" />
+          <RegionPartyResult Party="CDA" Votes="105" />
+          <RegionPartyResult Party="SP" Votes="150" />
+          <RegionPartyResult Party="CU" Votes="103" />
+          <RegionPartyResult Party="BIP" Votes="4" />
+          <RegionPartyResult Party="OU" Votes="16" />
+          <RegionPartyResult Party="OPAU" Votes="2" />
+          <RegionPartyResult Party="SenS" Votes="212" />
+          <RegionPartyResult Party="SBU" Votes="28" />
+          <RegionPartyResult Party="PVU" Votes="14" />
+          <RegionPartyResult Party="ND" Votes="8" />
+          <RegionPartyResult Party="LP" Votes="5" />
+          <RegionPartyResult Party="OPU" Votes="5" />
+          <RegionPartyResult Party="PvdD" Votes="62" />
+        </Parties>
+      </Result>
+    </Region>
+  </Regions>
+</Election>

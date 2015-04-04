@@ -1,0 +1,20 @@
+﻿@model D66.Hackathon.ViewModel.Home.IndexViewModel
+@{
+    ViewBag.Title = "title";
+}
+
+<h2>D66 Election API</h2>
+<p>Dit is een election API - lorem ipsum</p>
+<h2>Acties</h2>
+<ul>
+    <li><a href="~/Client/index.html">Visualisaties</a></li>
+    <li>@Html.ActionLink("CSV bestand uploaden", "CSV", "Upload")</li>
+</ul>
+
+<h2>Verkiezingen</h2>
+<ul>
+    @foreach (var election in Model.Elections)
+    {
+        <li><b>@(election.Key)</b> @election.Name</li>
+    }
+</ul>
