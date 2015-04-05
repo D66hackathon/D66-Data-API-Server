@@ -1,0 +1,3 @@
+[submodule "D66.Hackathon.Web/Client"]
+	path = D66.Hackathon.Web/Client
+	url = git@github.com:D66hackathon/D66-Data-API-Client.git
