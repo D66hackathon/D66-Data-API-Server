@@ -1,0 +1,94 @@
+﻿@model D66.Hackathon.ViewModel.Import.CSVViewModel
+@{
+    ViewBag.Title = "CSV";
+}
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new {enctype = "multipart/form-data"}))
+{
+    @Html.ValidationSummary(true)
+
+    <h2>Metadata</h2>
+    <div class="form-row">
+        <div class="editor-label">@Html.LabelFor(model => model.ElectionKey)</div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ElectionKey)
+            @Html.ValidationMessageFor(model => model.ElectionKey)
+        </div>
+    </div>
+
+
+    <div class="form-row">
+        <div class="editor-label">@Html.LabelFor(model => model.ElectionName)</div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ElectionName)
+            @Html.ValidationMessageFor(model => model.ElectionName)
+        </div>
+    </div>
+
+    <h2>CSV file layout</h2>
+    <div class="form-row">
+        <div class="editor-label">@Html.LabelFor(model => model.Separator)</div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Separator)
+            @Html.ValidationMessageFor(model => model.Separator)
+        </div>
+    </div>
+
+    <h2>CSV columns</h2>
+    <div class="form-row">
+        <div class="editor-label">@Html.LabelFor(model => model.ColumnKey)</div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ColumnKey)
+            @Html.ValidationMessageFor(model => model.ColumnKey)
+        </div>
+    </div>
+    
+
+    <div class="form-row">
+        <div class="editor-label">@Html.LabelFor(model => model.ColumnName)</div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ColumnName)
+            @Html.ValidationMessageFor(model => model.ColumnName)
+        </div>
+    </div>
+    
+    <div class="form-row">
+        <div class="editor-label">@Html.LabelFor(model => model.ColumnFirstParty)</div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ColumnFirstParty)
+            @Html.ValidationMessageFor(model => model.ColumnFirstParty)
+        </div>
+    </div>
+    
+    <div class="form-row">
+        <div class="editor-label">@Html.LabelFor(model => model.ColumnLastParty)</div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ColumnLastParty)
+            @Html.ValidationMessageFor(model => model.ColumnLastParty)
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="editor-label">@Html.LabelFor(model => model.ColumnBlank)</div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ColumnBlank)
+            @Html.ValidationMessageFor(model => model.ColumnBlank)
+        </div>
+    </div>
+
+    <h2>File upload</h2>
+    <div class="form-row">
+        <div class="editor-label">@Html.LabelFor(model => model.UploadedFile)</div>
+        <div class="editor-field">
+            @Html.ValidationMessageFor(model => model.UploadedFile)
+            <input type="file" name="UploadedFile"/>
+        </div>
+    </div>
+
+    <p>
+        <input type="submit" value="Import CSV file"/>
+    </p>
+}
+<div>
+    @Html.ActionLink("Back to index", "Index", "Home")
+</div>

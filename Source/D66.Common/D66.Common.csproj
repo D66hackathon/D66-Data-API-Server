@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{47BCBE5C-D5FB-471A-A271-9057E835F688}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>D66.Common</RootNamespace>
+    <AssemblyName>D66.Common</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Calendar\CalendarResources.Designer.cs" />
+    <Compile Include="Calendar\Day.cs" />
+    <Compile Include="Calendar\Month.cs" />
+    <Compile Include="Calendar\Period.cs" />
+    <Compile Include="Calendar\Quarter.cs" />
+    <Compile Include="Calendar\Range.cs" />
+    <Compile Include="Calendar\RecurringEvent.cs" />
+    <Compile Include="Calendar\Week.cs" />
+    <Compile Include="Calendar\Year.cs" />
+    <Compile Include="Collections\Cache.cs" />
+    <Compile Include="Collections\GridCollection.cs" />
+    <Compile Include="Collections\KeyValueCollection.cs" />
+    <Compile Include="Collections\ManyToManyMapping.cs" />
+    <Compile Include="Configuration\ContextStringEvaluator.cs" />
+    <Compile Include="Data\Achternamen.cs" />
+    <Compile Include="Data\Adjectives.cs" />
+    <Compile Include="Data\FirstNames.cs" />
+    <Compile Include="Data\NameList.cs" />
+    <Compile Include="Data\Nouns.cs" />
+    <Compile Include="Data\Surnames.cs" />
+    <Compile Include="Data\Voornamen.cs" />
+    <Compile Include="DB\Extensions.IDataReader.cs" />
+    <Compile Include="Diagnostics\Stopwatch.cs" />
+    <Compile Include="Environment\ConsoleApplicationContext.cs" />
+    <Compile Include="Environment\ProcessRunner.cs" />
+    <Compile Include="Extensions.cs" />
+    <Compile Include="Extensions.IEnumerable.cs" />
+    <Compile Include="Geo\Projection.cs" />
+    <Compile Include="IO\SVReader.cs" />
+    <Compile Include="IO\SVWriter.cs" />
+    <Compile Include="IO\TableBase.cs" />
+    <Compile Include="IO\TempFile.cs" />
+    <Compile Include="Mathmatics\ExpressionUtil.cs" />
+    <Compile Include="Mathmatics\GenericMath.cs" />
+    <Compile Include="Mathmatics\LinearModel.cs" />
+    <Compile Include="Mathmatics\Matrix.cs" />
+    <Compile Include="Mathmatics\MultivariateLinearModel.cs" />
+    <Compile Include="Mathmatics\NormalDistribution.cs" />
+    <Compile Include="Mathmatics\NormalityTest.cs" />
+    <Compile Include="Mathmatics\NullOp.cs" />
+    <Compile Include="Mathmatics\Operator.cs" />
+    <Compile Include="Mathmatics\ProbabilityTable.cs" />
+    <Compile Include="Mathmatics\Rectangle.cs" />
+    <Compile Include="Mathmatics\SimpleLinearModel.cs" />
+    <Compile Include="Mathmatics\Stat.cs" />
+    <Compile Include="Mathmatics\StatRange.cs" />
+    <Compile Include="Mathmatics\StepwiseModelFitting.cs" />
+    <Compile Include="Mathmatics\Tally.cs" />
+    <Compile Include="Mathmatics\Vector.cs" />
+    <Compile Include="Mathmatics\Vector2.cs" />
+    <Compile Include="Mathmatics\WeightedOptionDistribution.cs" />
+    <Compile Include="NamespaceDoc.cs" />
+    <Compile Include="NowService.cs" />
+    <Compile Include="Parsers\DateTimeParser.cs" />
+    <Compile Include="Pdf\PdfCreator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Reflection\ReflectionHelper.cs" />
+    <Compile Include="Security\ITokenGenerator.cs" />
+    <Compile Include="Security\PasswordHashing.cs" />
+    <Compile Include="StringUtil.cs" />
+    <Compile Include="ThisShouldNotHappenException.cs" />
+    <Compile Include="UI\Color.cs" />
+    <Compile Include="UI\Pager.cs" />
+    <Compile Include="Util.cs" />
+    <Compile Include="Xml\XmlComment.cs" />
+    <Compile Include="Xml\XmlDocument.cs" />
+    <Compile Include="Xml\XmlElement.cs" />
+    <Compile Include="Xml\XmlItem.cs" />
+    <Compile Include="Xml\XmlText.cs" />
+    <Compile Include="Xml\XmlWriter.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Calendar\CalendarResources.resx" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data\Achternamen.txt" />
+    <Content Include="Data\Adjectives.txt" />
+    <Content Include="Data\FirstNames.txt" />
+    <Content Include="Data\Nouns.txt" />
+    <Content Include="Data\Surnames.txt" />
+    <Content Include="Data\Voornamen.txt" />
+    <Content Include="Mathmatics\ChiSquaredTable.txt" />
+    <Content Include="WkHtmlToPdf\wkhtmltopdf.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Algorithms\" />
+    <Folder Include="Charts\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
