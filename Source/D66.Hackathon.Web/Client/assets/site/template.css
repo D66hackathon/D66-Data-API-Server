@@ -1,0 +1,17 @@
+body {
+    padding-top: 50px;
+}
+
+.view-body {
+    padding: 40px 15px;
+    text-align: left;
+}
+
+.subsetSelector {
+    margin: 10px;
+}
+
+.osmap {
+    height: 600px;
+    width: 100%;
+}

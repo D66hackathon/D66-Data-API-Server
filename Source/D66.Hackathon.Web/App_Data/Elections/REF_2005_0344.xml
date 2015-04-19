@@ -1,0 +1,1305 @@
+<?xml version="1.0"?>
+<Election xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Key="REF_2005_0344" Name="Referendum europese grondwet 2005">
+  <Parties>
+    <Party Key="Voor" Name="Voor" />
+    <Party Key="Tegen" Name="Tegen" />
+  </Parties>
+  <Regions>
+    <Region Key="001" Name="Korte Minrebroederstr 2 [1]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="660" />
+          <RegionPartyResult Party="Tegen" Votes="330" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="002" Name="Korte Minrebroederstr 2 [2]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="724" />
+          <RegionPartyResult Party="Tegen" Votes="437" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="003" Name="St.-Jacobsstraat 171" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="449" />
+          <RegionPartyResult Party="Tegen" Votes="411" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="004" Name="Pauwstraat 13 A" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="560" />
+          <RegionPartyResult Party="Tegen" Votes="378" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="005" Name="Wittevrouwenkade 4" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="516" />
+          <RegionPartyResult Party="Tegen" Votes="325" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="006" Name="Pieterskerkhof 10" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="752" />
+          <RegionPartyResult Party="Tegen" Votes="400" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="007" Name="Nicolaaskerkhof 9" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="700" />
+          <RegionPartyResult Party="Tegen" Votes="422" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="008" Name="Lange Smeestraat 40" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="559" />
+          <RegionPartyResult Party="Tegen" Votes="464" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="009" Name="Laan van Puntenburg 2 A" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="480" />
+          <RegionPartyResult Party="Tegen" Votes="243" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="010" Name="A. van Schendelstraat 500" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="649" />
+          <RegionPartyResult Party="Tegen" Votes="292" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="011" Name="Muntkade 11" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="270" />
+          <RegionPartyResult Party="Tegen" Votes="220" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="012" Name="Van Riebeeckstraat 40" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="431" />
+          <RegionPartyResult Party="Tegen" Votes="316" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="013" Name="Pieter Bothstraat 35" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="426" />
+          <RegionPartyResult Party="Tegen" Votes="355" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="014" Name="Abel Tasmanstraat 88 B" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="589" />
+          <RegionPartyResult Party="Tegen" Votes="461" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="015" Name="Van Imhoffstraat 2" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="458" />
+          <RegionPartyResult Party="Tegen" Votes="396" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="016" Name="M.P. Lindostraat 4" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="516" />
+          <RegionPartyResult Party="Tegen" Votes="368" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="017" Name="Staringstraat 1" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="516" />
+          <RegionPartyResult Party="Tegen" Votes="338" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="018" Name="Louis Couperusstraat 85" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="462" />
+          <RegionPartyResult Party="Tegen" Votes="322" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="019" Name="Laan van Nieuw-Guinea 20" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="453" />
+          <RegionPartyResult Party="Tegen" Votes="459" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="020" Name="Vleutenseweg 420" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="431" />
+          <RegionPartyResult Party="Tegen" Votes="425" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="021" Name="Vleutenseweg 515" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="284" />
+          <RegionPartyResult Party="Tegen" Votes="483" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="022" Name="Victor Hugoplantsoen 33" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="476" />
+          <RegionPartyResult Party="Tegen" Votes="401" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="023" Name="Beethovenplein 2" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="764" />
+          <RegionPartyResult Party="Tegen" Votes="462" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="024" Name="Kennedylaan 16" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="423" />
+          <RegionPartyResult Party="Tegen" Votes="328" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="025" Name="Leidseweg 132-213" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="590" />
+          <RegionPartyResult Party="Tegen" Votes="422" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="026" Name="A'damsestraatweg 441 A" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="418" />
+          <RegionPartyResult Party="Tegen" Votes="502" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="027" Name="St.-Bonifaciusstraat 8" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="359" />
+          <RegionPartyResult Party="Tegen" Votes="555" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="028" Name="St.-Ludgerusstraat 251" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="329" />
+          <RegionPartyResult Party="Tegen" Votes="483" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="029" Name="Bisschopsplein 8" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="386" />
+          <RegionPartyResult Party="Tegen" Votes="472" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="030" Name="C. van Maasdijkstraat 59" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="141" />
+          <RegionPartyResult Party="Tegen" Votes="370" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="031" Name="Plesmanlaan 21" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="342" />
+          <RegionPartyResult Party="Tegen" Votes="586" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="032" Name="Prof. H. Bavinckstraat 3" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="124" />
+          <RegionPartyResult Party="Tegen" Votes="331" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="033" Name="Burg. Norbruislaan 13" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="280" />
+          <RegionPartyResult Party="Tegen" Votes="467" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="034" Name="Prinses Margrietstraat 124" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="284" />
+          <RegionPartyResult Party="Tegen" Votes="389" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="035" Name="Zwanenvechtlaan 4" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="296" />
+          <RegionPartyResult Party="Tegen" Votes="554" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="036" Name="Van Hoornekade 6" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="219" />
+          <RegionPartyResult Party="Tegen" Votes="429" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="037" Name="Koppestokstraat 38" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="264" />
+          <RegionPartyResult Party="Tegen" Votes="390" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="038" Name="A'damsestraatweg 1 [1]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="493" />
+          <RegionPartyResult Party="Tegen" Votes="370" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="039" Name="A'damsestraatweg 1 [2]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="415" />
+          <RegionPartyResult Party="Tegen" Votes="405" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="040" Name="Oudenoord 390" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="410" />
+          <RegionPartyResult Party="Tegen" Votes="395" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="041" Name="2e Daalsedijk 2 BS" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="431" />
+          <RegionPartyResult Party="Tegen" Votes="373" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="042" Name="A'damsestraatweg 283" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="368" />
+          <RegionPartyResult Party="Tegen" Votes="470" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="043" Name="Opzoomerstraat 1" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="341" />
+          <RegionPartyResult Party="Tegen" Votes="484" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="044" Name="Laan van Chartroise 166" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="134" />
+          <RegionPartyResult Party="Tegen" Votes="400" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="045" Name="Boerhaaveplein 110" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="227" />
+          <RegionPartyResult Party="Tegen" Votes="472" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="046" Name="R. van den Hamkade 4" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="382" />
+          <RegionPartyResult Party="Tegen" Votes="351" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="047" Name="Jagerskade 13-15" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="173" />
+          <RegionPartyResult Party="Tegen" Votes="291" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="048" Name="Laan van Chartroise 166" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="180" />
+          <RegionPartyResult Party="Tegen" Votes="327" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="049" Name="Teun de Jagerdreef 5" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="262" />
+          <RegionPartyResult Party="Tegen" Votes="321" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="050" Name="Gloriantdreef 1 [1]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="296" />
+          <RegionPartyResult Party="Tegen" Votes="381" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="051" Name="Gloriantdreef 1 [2]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="318" />
+          <RegionPartyResult Party="Tegen" Votes="437" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="052" Name="Winterboeidreef 8" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="419" />
+          <RegionPartyResult Party="Tegen" Votes="389" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="053" Name="Jeanne d'Arcdreef 1" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="194" />
+          <RegionPartyResult Party="Tegen" Votes="439" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="054" Name="Vulcanusdreef 163" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="151" />
+          <RegionPartyResult Party="Tegen" Votes="420" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="055" Name="Neckardreef 6" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="93" />
+          <RegionPartyResult Party="Tegen" Votes="322" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="056" Name="Dommeringdreef 60" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="205" />
+          <RegionPartyResult Party="Tegen" Votes="331" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="057" Name="Stroyenborchdreef 12" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="130" />
+          <RegionPartyResult Party="Tegen" Votes="332" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="058" Name="Perudreef 8 [1]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="230" />
+          <RegionPartyResult Party="Tegen" Votes="373" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="059" Name="Perudreef 8 [2]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="263" />
+          <RegionPartyResult Party="Tegen" Votes="449" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="060" Name="Costa Ricadreef 9" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="232" />
+          <RegionPartyResult Party="Tegen" Votes="409" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="061" Name="Orinocodreef 7-9" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="128" />
+          <RegionPartyResult Party="Tegen" Votes="344" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="062" Name="Beiroetdreef 5" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="267" />
+          <RegionPartyResult Party="Tegen" Votes="552" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="063" Name="Indusdreef 5" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="211" />
+          <RegionPartyResult Party="Tegen" Votes="394" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="064" Name="Gambiadreef 60" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="172" />
+          <RegionPartyResult Party="Tegen" Votes="341" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="065" Name="Ramsesdreef 190" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="228" />
+          <RegionPartyResult Party="Tegen" Votes="365" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="066" Name="Grote-Trekdreef 87" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="269" />
+          <RegionPartyResult Party="Tegen" Votes="493" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="067" Name="Koekkoeksplein 2 A [1]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="609" />
+          <RegionPartyResult Party="Tegen" Votes="473" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="068" Name="Koekkoeksplein 2 A [2]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="741" />
+          <RegionPartyResult Party="Tegen" Votes="416" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="069" Name="Willem Arntszkade 5" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="456" />
+          <RegionPartyResult Party="Tegen" Votes="321" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="070" Name="Maria van Reedestraat 4 [1]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="619" />
+          <RegionPartyResult Party="Tegen" Votes="406" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="071" Name="Maria van Reedestraat 4 [2]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="505" />
+          <RegionPartyResult Party="Tegen" Votes="364" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="072" Name="Nolenslaan 33" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="397" />
+          <RegionPartyResult Party="Tegen" Votes="389" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="073" Name="Samuel van Houtenstraat 1" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="327" />
+          <RegionPartyResult Party="Tegen" Votes="377" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="074" Name="Bouwstraat 55" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="736" />
+          <RegionPartyResult Party="Tegen" Votes="432" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="075" Name="Oude Kerkstraat 2 A" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="718" />
+          <RegionPartyResult Party="Tegen" Votes="377" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="076" Name="Poortstraat 73 [1]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="695" />
+          <RegionPartyResult Party="Tegen" Votes="381" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="077" Name="Poortstraat 73 [2]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="659" />
+          <RegionPartyResult Party="Tegen" Votes="413" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="078" Name="Smijerslaan 2" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="598" />
+          <RegionPartyResult Party="Tegen" Votes="308" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="079" Name="Jan van Galenstraat 6" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="632" />
+          <RegionPartyResult Party="Tegen" Votes="489" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="080" Name="W. de Zwijgerplantsoen 19" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="556" />
+          <RegionPartyResult Party="Tegen" Votes="339" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="081" Name="Vogelsanglaan 1" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="553" />
+          <RegionPartyResult Party="Tegen" Votes="405" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="082" Name="Sartreweg 11" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="437" />
+          <RegionPartyResult Party="Tegen" Votes="307" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="083" Name="Ch� Guevarastraat 15" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="553" />
+          <RegionPartyResult Party="Tegen" Votes="503" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="084" Name="Winklerlaan 365" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="525" />
+          <RegionPartyResult Party="Tegen" Votes="381" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="085" Name="Eykmanlaan 72" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="607" />
+          <RegionPartyResult Party="Tegen" Votes="334" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="086" Name="Regentesselaan 70" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="639" />
+          <RegionPartyResult Party="Tegen" Votes="370" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="087" Name="Christiaan Krammlaan 2" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="596" />
+          <RegionPartyResult Party="Tegen" Votes="430" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="088" Name="Kruisdwarsstraat 6" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="499" />
+          <RegionPartyResult Party="Tegen" Votes="339" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="089" Name="Pallaesstraat 3" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="589" />
+          <RegionPartyResult Party="Tegen" Votes="280" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="090" Name="Schoolplein 6" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="553" />
+          <RegionPartyResult Party="Tegen" Votes="310" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="091" Name="Burg. Reigerstraat 78" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="771" />
+          <RegionPartyResult Party="Tegen" Votes="336" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="092" Name="Oudwijkerdwarsstraat 148" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="532" />
+          <RegionPartyResult Party="Tegen" Votes="367" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="093" Name="Homeruslaan 40" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="619" />
+          <RegionPartyResult Party="Tegen" Votes="406" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="094" Name="Alkhof 55" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="599" />
+          <RegionPartyResult Party="Tegen" Votes="473" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="095" Name="Keerkringplein 40" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="379" />
+          <RegionPartyResult Party="Tegen" Votes="426" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="096" Name="Ina Boudier-Bakkerlaan 40" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="640" />
+          <RegionPartyResult Party="Tegen" Votes="371" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="097" Name="Burg. F. Andreaelaan 9" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="335" />
+          <RegionPartyResult Party="Tegen" Votes="323" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="098" Name="Burg. F. Andreaelaan 100" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="592" />
+          <RegionPartyResult Party="Tegen" Votes="373" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="099" Name="Koningsweg 2" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="413" />
+          <RegionPartyResult Party="Tegen" Votes="369" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="100" Name="Frans Halsstraat 22 A" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="714" />
+          <RegionPartyResult Party="Tegen" Votes="451" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="101" Name="Rembrandtkade 10" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="695" />
+          <RegionPartyResult Party="Tegen" Votes="430" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="102" Name="Van Hogendorpstraat 26" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="721" />
+          <RegionPartyResult Party="Tegen" Votes="306" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="103" Name="Jan Muschlaan 24" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="578" />
+          <RegionPartyResult Party="Tegen" Votes="299" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="104" Name="Maupertuusplein 1" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="493" />
+          <RegionPartyResult Party="Tegen" Votes="222" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="105" Name="Padualaan 99" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="512" />
+          <RegionPartyResult Party="Tegen" Votes="288" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="106" Name="Saffierlaan 10" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="521" />
+          <RegionPartyResult Party="Tegen" Votes="449" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="107" Name="Elandplein 25" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="530" />
+          <RegionPartyResult Party="Tegen" Votes="427" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="108" Name="Jan van Arkelstraat 55" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="512" />
+          <RegionPartyResult Party="Tegen" Votes="538" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="109" Name="Hoogravenseweg 203" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="482" />
+          <RegionPartyResult Party="Tegen" Votes="502" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="110" Name="V. Hoogravenseweg 150 A" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="495" />
+          <RegionPartyResult Party="Tegen" Votes="588" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="111" Name="Hooft Graaflandstraat 2 A" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="140" />
+          <RegionPartyResult Party="Tegen" Votes="345" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="112" Name="Wijnesteinlaan 6" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="259" />
+          <RegionPartyResult Party="Tegen" Votes="354" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="113" Name="Oud-Wulvenln 4 A" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="285" />
+          <RegionPartyResult Party="Tegen" Votes="302" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="114" Name="Eifel 20 [1]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="463" />
+          <RegionPartyResult Party="Tegen" Votes="520" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="115" Name="Eifel 20 [2]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="420" />
+          <RegionPartyResult Party="Tegen" Votes="447" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="116" Name="Goeree 6 [1]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="474" />
+          <RegionPartyResult Party="Tegen" Votes="504" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="117" Name="Goeree 6 [2]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="508" />
+          <RegionPartyResult Party="Tegen" Votes="510" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="118" Name="Hondsrug 477" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="481" />
+          <RegionPartyResult Party="Tegen" Votes="425" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="119" Name="Hondsrug 19" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="354" />
+          <RegionPartyResult Party="Tegen" Votes="345" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="120" Name="Kampereiland 6" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="544" />
+          <RegionPartyResult Party="Tegen" Votes="422" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="121" Name="Beneluxlaan 924" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="321" />
+          <RegionPartyResult Party="Tegen" Votes="302" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="122" Name="Marco Pololaan 485" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="211" />
+          <RegionPartyResult Party="Tegen" Votes="366" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="123" Name="Bontekoelaan 7" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="159" />
+          <RegionPartyResult Party="Tegen" Votes="342" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="124" Name="Afrikalaan 28" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="175" />
+          <RegionPartyResult Party="Tegen" Votes="286" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="125" Name="Marco Pololaan 71" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="138" />
+          <RegionPartyResult Party="Tegen" Votes="168" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="126" Name="Eisenhowerlaan 60" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="158" />
+          <RegionPartyResult Party="Tegen" Votes="209" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="127" Name="Attleeplantsoen 39" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="135" />
+          <RegionPartyResult Party="Tegen" Votes="234" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="128" Name="V. Heuven Goedhartlaan 3" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="107" />
+          <RegionPartyResult Party="Tegen" Votes="138" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="129" Name="Grebbeberglaan 60" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="365" />
+          <RegionPartyResult Party="Tegen" Votes="475" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="130" Name="Van Vollenhovenlaan 451" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="424" />
+          <RegionPartyResult Party="Tegen" Votes="494" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="131" Name="Lomanlaan 49" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="216" />
+          <RegionPartyResult Party="Tegen" Votes="475" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="132" Name="Lingestraat 2 B [1]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="447" />
+          <RegionPartyResult Party="Tegen" Votes="385" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="133" Name="Lingestraat 2 B [2]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="364" />
+          <RegionPartyResult Party="Tegen" Votes="405" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="134" Name="Maasplein 1" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="276" />
+          <RegionPartyResult Party="Tegen" Votes="496" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="135" Name="Waalstraat 251" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="356" />
+          <RegionPartyResult Party="Tegen" Votes="462" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="136" Name="Vondellaan 174" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="617" />
+          <RegionPartyResult Party="Tegen" Votes="471" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="137" Name="Da Costakade 20" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="581" />
+          <RegionPartyResult Party="Tegen" Votes="431" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="138" Name="Heycopplein 1" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="690" />
+          <RegionPartyResult Party="Tegen" Votes="484" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="139" Name="Akkrumerraklaan 111" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="516" />
+          <RegionPartyResult Party="Tegen" Votes="393" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="140" Name="Ab Harrewijnstraat 45" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="516" />
+          <RegionPartyResult Party="Tegen" Votes="561" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="141" Name="Pauwoogvlinder 22" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="462" />
+          <RegionPartyResult Party="Tegen" Votes="513" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="142" Name="Kruidenlaan 1" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="429" />
+          <RegionPartyResult Party="Tegen" Votes="558" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="143" Name="Verl. Vleutenseweg 32 A" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="300" />
+          <RegionPartyResult Party="Tegen" Votes="345" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="144" Name="Dorpsplein 1" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="443" />
+          <RegionPartyResult Party="Tegen" Votes="487" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="145" Name="Brinkstraat 4" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="100" />
+          <RegionPartyResult Party="Tegen" Votes="143" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="146" Name="Albert Schweitzerlaan 10 A" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="389" />
+          <RegionPartyResult Party="Tegen" Votes="416" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="147" Name="Kortland 22" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="633" />
+          <RegionPartyResult Party="Tegen" Votes="785" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="148" Name="Musicallaan 100 [1]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="472" />
+          <RegionPartyResult Party="Tegen" Votes="526" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="149" Name="Pastoor Ohlln 34 A" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="452" />
+          <RegionPartyResult Party="Tegen" Votes="530" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="150" Name="Burg. Middelweerdbaan 100" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="388" />
+          <RegionPartyResult Party="Tegen" Votes="474" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="151" Name="Zandweg 148" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="433" />
+          <RegionPartyResult Party="Tegen" Votes="501" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="152" Name="Oranjelaan 10" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="428" />
+          <RegionPartyResult Party="Tegen" Votes="442" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="153" Name="Mereveldlaan 12" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="419" />
+          <RegionPartyResult Party="Tegen" Votes="519" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="154" Name="Touwslagerslaan 1" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="507" />
+          <RegionPartyResult Party="Tegen" Votes="588" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="155" Name="Bovenpolder 80" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="718" />
+          <RegionPartyResult Party="Tegen" Votes="817" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="156" Name="Sint Pietersberg 12 C [1]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="400" />
+          <RegionPartyResult Party="Tegen" Votes="654" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="157" Name="Sint Pietersberg 12 C [2]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="430" />
+          <RegionPartyResult Party="Tegen" Votes="574" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="158" Name="Ten Veldestraat 94" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="295" />
+          <RegionPartyResult Party="Tegen" Votes="548" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="159" Name="Nedereindseweg 503 A" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="71" />
+          <RegionPartyResult Party="Tegen" Votes="72" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="160" Name="Niels Bohrweg 121" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="43" />
+          <RegionPartyResult Party="Tegen" Votes="63" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="161" Name="Doyenneperenlaan 1 [1]" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="0" />
+          <RegionPartyResult Party="Tegen" Votes="0" />
+        </Parties>
+      </Result>
+    </Region>
+    <Region Key="162" Name="Eerste Oosterparklaan 88" X="0" Y="0">
+      <Result BlankVotes="0" Invalid="0">
+        <Parties>
+          <RegionPartyResult Party="Voor" Votes="0" />
+          <RegionPartyResult Party="Tegen" Votes="0" />
+        </Parties>
+      </Result>
+    </Region>
+  </Regions>
+</Election>
